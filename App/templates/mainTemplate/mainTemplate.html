@@ -1,35 +1,112 @@
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CookSnap</title>
 
     <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous"
+        rel="icon"
+        href="{% static 'resources/cooksnap-logo.png' %}"
+        alt="LyncottIcon"
     />
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
     <link rel="stylesheet" href="{% static 'styles/styleMain.css' %}" />
-
 </head>
-    <body>    
+    <body class ="background"> 
+        <!-- Navbar -->
+        <nav class="pb-0 p-3">
+            <div class="container">    
+                <div class="row align-items-center">
+                    
+                    <div class="col-3 d-flex justify-content-center">
+                        <img src="{% static 'resources/cooksnap-logo.png'%}" alt="CookSnap Logo" class="img-fluid" style="width: 35vh; height: auto;">
+                    </div>
+            
+                    <div class="col-9 d-flex justify-content-start">
+                        <p style="font-size: 3vw; font-weight: 600; color: #000000;">
+                            Welcome <span style="color: #FF5535;">{{ user.username }}</span>! ready to start cooking?
+                        </p>
+                    </div>
+                    
+                </div>
+            </div>
+        </nav>
+        
+        
+        <p class="text-muted justify-content-center text-center" >Fase pre-alpha</p>
 
-        <h1 class = "text-center">Bienvenido {{ user.username }} a CookSnap, fase pre alpha</h1>
+        <div class="container">
+            <div class="row text-center p-3">
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="#" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="hexagono 1" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-plus-circle-fill icon-size"></i>
+                            <span style = "color:#070D59; font-weight:600;">Take a photo</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="#" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="hexagono 2" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-folder-fill icon-size"></i>
+                            <span style = "color:#070D59; font-weight:600;">Saved recipes</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="#" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="hexagono 3" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-search icon-size"></i>
+                            <span style = "color:#070D59; font-weight:600;">Explore recipes</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="#" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="Hexágono 4" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-basket-fill icon-size"></i>
+                            <span style = "color:#070D59; font-weight:600;">Groceries</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
 
-        <script
-            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        <!-- Footer -->
+        <footer class ="container-fluid position-fixed bottom-0 text-white footer" style = "color:; border-top: 5px solid #070D59;">
+            <div class="row justify-content-center mt-3">
+                <div class="col-3 text-center">
+                    <a href="#" style="color: #070D59;"><i class="bi bi-house-door-fill" style="font-size: 1.5rem;"></i></a><p style="color: #070D59; font-weight:600;">Home</p>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#" style="color: #070D59;"><i class="bi bi-bell-fill" style="font-size: 1.5rem;"></i></a><p style="color: #070D59; font-weight:600;">Notifications</p>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#" style="color: #070D59;"><i class="bi bi-person-fill" style="font-size: 1.5rem;"></i></a><p style="color: #070D59; font-weight:600;">Profile</p>
+                </div>
+            </div>
+        </footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
             integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-            crossorigin="anonymous"
-        ></script>
+            crossorigin="anonymous"></script>
 
-        <script
-            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-            crossorigin="anonymous"
-        ></script>
+            crossorigin="anonymous"></script>
     </body>
+    <script src="{% static 'scripts/imgbreathing.js' %}"></script>
 </html>
