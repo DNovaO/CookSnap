@@ -9,5 +9,7 @@ urlpatterns = [
     path('explore_recipes/', include('explore_recipes.urls')),
     path('saved_recipes/', include('saved_recipes.urls')),
     path('groceries/', include('groceries.urls')),
+    path('password_recovery/', include('password_recovery.urls')),
+
 
 ]

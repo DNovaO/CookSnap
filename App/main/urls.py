@@ -7,8 +7,5 @@ from .views import groceries
 
 urlpatterns = [
     path('', main_view, name='main'),
-    path('saved-recipes/', saved_recipes, name='saved_recipes'),
-    path('explore-recipes/', explore_recipes_view, name= 'explore_recipes'),
-    path('groceries/', groceries, name= 'groceries' ),
 
 ]

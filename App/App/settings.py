@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'explore_recipes',
     'saved_recipes',
     'groceries',
-    
+    'password_recovery',
+
 ]
 
 MIDDLEWARE = [
