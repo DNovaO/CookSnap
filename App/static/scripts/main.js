@@ -2,7 +2,7 @@
 // Image Breathing
 
 document.querySelectorAll('.hexagon-img').forEach(function(img) {
-    img.addEventListener('mouseover', function() {
+    img.addEventListener('', function() {
         img.style.animationPlayState = 'paused';
     });
     img.addEventListener('mouseout', function() {

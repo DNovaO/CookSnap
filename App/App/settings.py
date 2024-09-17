@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'saved_recipes',
     'groceries',
     'password_recovery',
+    'register',
+    
 
 ]
 
@@ -132,3 +134,14 @@ STATICFILES_DIRS = [
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+#Parte para Configuracion de correos enviados
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.office365.com'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = 'leo_mata7791@outlook.com'  # Tu correo de Outlook
+EMAIL_HOST_PASSWORD = 'Citykids332'
+DEFAULT_FROM_EMAIL = 'leo_mata7791@outlook.com'  # Cambia el correo "from" a tu cuenta de Outlook
+
