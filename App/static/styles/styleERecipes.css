@@ -1,0 +1,50 @@
+/* Estilos de la barra de menú */
+.menu-button {
+    border: none;
+    background: transparent;
+    padding: 0;
+    font-size: 2.5rem;
+  }
+  
+  /* Estilos para la imagen del logo */
+  .hexagon-img {
+    width: 35vh;
+    height: auto;
+  }
+  
+  /* Estilo para el título de la página */
+  p {
+    font-size: 3vw;
+    font-weight: 600;
+    color: #000000;
+  }
+  
+  p span {
+    color: #ff5535;
+  }
+  
+  /* Estilo para el menú colapsable */
+  .collapse {
+    position: absolute;
+    background-color: #f8f9fa;
+    padding: 2px;
+  }
+  
+  a {
+    display: block;
+    color: #070d59;
+    font-size: 1rem;
+  }
+  
+  /* Estilos para el texto de las categorías */
+  .overlay-text span {
+    color: #070d59;
+    font-weight: 1000;
+  }
+  
+  /* Ajustes para las imágenes en la sección de categorías */
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
