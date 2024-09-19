@@ -18,5 +18,5 @@ def password_recovery(request):
             )
             messages.success(request, 'A recovery email has been sent.')
         except User.DoesNotExist:
-            messages.error(request, 'This email direction doesn´t appear to be registered.')
+            messages.error(request, 'This email direction doesn\'t appear to be registered.')
     return render(request, 'password_recovery_template/password_recovery.html')
