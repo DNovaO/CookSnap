@@ -1,12 +1,12 @@
 from django.shortcuts import render, redirect
-from .forms import RegisterForm  # Importa el formulario
+from .forms import RegisterForm  
 
 def register(request):
     if request.method == 'POST':
         form = RegisterForm(request.POST)
         if form.is_valid():
             form.save()
-            return redirect('login')  # O la ruta a la que quieras redirigir después del registro
+            return redirect('login')  
     else:
         form = RegisterForm()
     

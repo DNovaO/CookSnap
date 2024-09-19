@@ -16,7 +16,7 @@ def password_recovery(request):
                 [email],
                 fail_silently=False,
             )
-            messages.success(request, 'Se ha enviado un correo para restablecer tu contraseña.')
+            messages.success(request, 'A recovery email has been sent.')
         except User.DoesNotExist:
-            messages.error(request, 'Este correo no está registrado.')
+            messages.error(request, 'This email direction doesn´t appear to be registered.')
     return render(request, 'password_recovery_template/password_recovery.html')

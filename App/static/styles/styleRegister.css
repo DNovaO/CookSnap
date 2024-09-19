@@ -1,76 +1,78 @@
-/* Asegúrate de que el margen y el relleno sean cero y que el cuadro de tamaño se maneje de manera consistente */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Estilo general del cuerpo */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4; /* Color de fondo para contrastar con el formulario */
-    height: 100vh; /* Asegura que el cuerpo ocupe toda la altura de la ventana */
-    display: flex; /* Utiliza flexbox para alinear el formulario en el centro */
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
+    background-color: #f4f4f4;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-/* Contenedor del formulario */
 .container {
-    background-color: #ffffff; /* Fondo blanco para el contenedor del formulario */
-    padding: 30px; /* Espaciado interno del contenedor */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil alrededor del contenedor */
-    border-radius: 8px; /* Bordes redondeados */
-    width: 100%; /* El contenedor ocupa el 100% del ancho de la ventana */
-    max-width: 1000px; /* Ancho máximo del contenedor */
-    box-sizing: border-box; /* Incluye el relleno y el borde en el ancho total */
-    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    background-color: #ffffff;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 100%;
+    max-width: 1000px;
+    box-sizing: border-box;
+    margin: 0 auto;
 }
 
-/* Estilo del encabezado del formulario */
+.logo-container {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
 h1 {
-    margin-bottom: 20px; /* Espaciado inferior del encabezado */
-    color: #333; /* Color del texto del encabezado */
-    text-align: center; /* Alineación del texto en el centro */
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
 }
 
-/* Estilo del formulario */
 form {
-    display: flex; /* Utiliza flexbox para organizar los campos del formulario en una columna */
-    flex-direction: column; /* Orienta los elementos en una columna */
+    display: flex;
+    flex-direction: column;
 }
 
-/* Estilo de los campos del formulario */
 input[type="text"],
 input[type="email"],
 input[type="password"] {
-    padding: 10px; /* Espaciado interno de los campos */
-    width: 100%; /* Los campos ocupan el 100% del ancho del contenedor */
-    border: 1px solid #ccc; /* Borde gris claro */
-    border-radius: 4px; /* Bordes redondeados */
-    margin-bottom: 15px; /* Espaciado inferior entre los campos */
-    font-size: 16px; /* Tamaño de fuente de los campos */
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    font-size: 16px;
 }
 
-/* Estilo cuando los campos están enfocados */
-input:focus {
-    border-color: #007bff; /* Color del borde cuando el campo está enfocado */
-    outline: none; /* Elimina el contorno predeterminado del navegador */
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border-color: #007bff;
+    outline: none;
 }
 
-/* Estilo del botón de envío */
 button {
-    background-color: #007bff; /* Color de fondo del botón */
-    color: white; /* Color del texto del botón */
-    padding: 10px; /* Espaciado interno del botón */
-    border: none; /* Elimina el borde predeterminado del botón */
-    border-radius: 4px; /* Bordes redondeados del botón */
-    font-size: 16px; /* Tamaño de fuente del botón */
-    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
-    transition: background-color 0.3s; /* Transición suave para el cambio de color de fondo */
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-/* Estilo del botón cuando se pasa el cursor sobre él */
 button:hover {
-    background-color: #0056b3; /* Color de fondo del botón al pasar el cursor */
+    background-color: #0056b3;
 }
