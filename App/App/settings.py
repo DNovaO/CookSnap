@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'groceries',
     'password_recovery',
     'register',
+    'password_change',
     
 
 ]

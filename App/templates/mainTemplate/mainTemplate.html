@@ -28,11 +28,11 @@
         <div class="container">    
             <div class="row align-items-center">
                 <div class="col-3 d-flex justify-content-center">
-                    <img src="{% static 'resources/cooksnap-logo.png'%}" alt="CookSnap Logo" class="hexagon-img" style="width: 35vh; height: auto;">
+                    <img src="{% static 'resources/cooksnap-logo.png'%}" alt="CookSnap Logo" style="width: 35vh; height: auto;">
                 </div>
                 <div class="col-9 d-flex justify-content-start">
                     <p style="font-size: 3vw; font-weight: 600; color: #000000;">
-                        Welcome <span style="color: #FF5535;">{{ user.username }}</span>! ready to start cooking?
+                        Welcome <span class="color-change" style="color: #FF5535;">{{ user.username|upper }}</span>! ready to start cooking?
                     </p>
                 </div>
             </div>
@@ -89,16 +89,13 @@
     <footer class="container-fluid position-fixed bottom-0 text-white footer" style="border-top: 5px solid #070D59;">
         <div class="row justify-content-center mt-3">
             <div class="col-3 text-center">
-                <a href="#" style="color: #070D59;"><i class="bi bi-house-door-fill" style="font-size: 1.5rem;"></i></a>
-                <p style="color: #070D59; font-weight:600;">Home</p>
+                <a href="#" style="color: #070D59;"><i class="bi bi-house-door-fill" style="font-size: 2.3rem;"></i></a>
             </div>
             <div class="col-3 text-center">
-                <a href="#" style="color: #070D59;"><i class="bi bi-bell-fill" style="font-size: 1.5rem;"></i></a>
-                <p style="color: #070D59; font-weight:600;">Notifications</p>
+                <a href="#" style="color: #070D59;"><i class="bi bi-bell-fill" style="font-size: 2.3rem;"></i></a>
             </div>
             <div class="col-3 text-center">
-                <a href="#" style="color: #070D59;"><i class="bi bi-person-fill" style="font-size: 1.5rem;"></i></a>
-                <p style="color: #070D59; font-weight:600;">Profile</p>
+                <a href="#" style="color: #070D59;"><i class="bi bi-person-fill" style="font-size: 2.5rem;"></i></a>
             </div>
         </div>
     </footer>
@@ -111,6 +108,6 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
 </body>
-<script src="{% static '/scripts/main.js' %}"></script>
+<script src="{% static '/scripts/imgBreathing.js' %}"></script>
 </html>
 

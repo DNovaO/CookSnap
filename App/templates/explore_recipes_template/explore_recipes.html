@@ -9,7 +9,7 @@
     <link
       rel="icon"
       href="{% static 'resources/cooksnap-logo.png' %}"
-      alt="CookSnapIcon"
+      alt="LyncottIcon"
     />
 
     <link
@@ -28,6 +28,11 @@
     />
 
     <link rel="stylesheet" href="{% static 'styles/styleERecipes.css' %}" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
   </head>
 
   <body class="background">
@@ -60,28 +65,15 @@
                 <i class="bi bi-list"></i>
               </button>
               <div
-                class="collapse position-absolute start-350"
+                class="collapse position-absolute start-0"
                 id="footerContent"
               >
                 <div class="bg-light p-2">
-                  <a
-                    href="#"
-                    class="d-block"
-                    style="color: #070d59; font-size: 1rem"
-                    ><i class="bi bi-house-door-fill"></i> Home</a
+                  <a href="#" class="d-block text-primary fs-5">Home</a>
+                  <a href="#" class="d-block text-primary fs-5"
+                    >Notifications</a
                   >
-                  <a
-                    href="#"
-                    class="d-block"
-                    style="color: #070d59; font-size: 1rem"
-                    ><i class="bi bi-bell-fill"></i> Notifications</a
-                  >
-                  <a
-                    href="#"
-                    class="d-block"
-                    style="color: #070d59; font-size: 1rem"
-                    ><i class="bi bi-person-fill"></i> Profile</a
-                  >
+                  <a href="#" class="d-block text-primary fs-5">Profile</a>
                 </div>
               </div>
             </div>
@@ -89,11 +81,11 @@
 
           <div class="justify-content-center text-center">
             <p style="font-size: 3vw; font-weight: 600; color: #ff5535">
-                Recipes
+              Recipes
             </p>
-            </div>
+          </div>
 
-          <div class="container mt-5"> 
+          <div class="container mt-5">
             <div class="row text-center p-3">
               <div class="col-6 col-md-4 position-relative">
                 <a href="#vegetarian" class="btn">
@@ -102,11 +94,33 @@
                     alt="Vegetarian"
                     class="img-fluid hexagon-img"
                   />
-                  <div class="overlay-text">
-                    <span style="color: #070d59; font-weight: 1000">Vegetarian</span>
+                  <div
+                    class="overlay-text"
+                    style="
+                      position: absolute;
+                      top: 50%;
+                      left: 50%;
+                      transform: translate(-50%, -50%);
+                      text-align: center;
+                    "
+                  >
+                    <i
+                      class="overlay-text fas fa-carrot"
+                      style="font-size: 36px; color: #070d59"
+                    ></i>
+                    <span
+                      style="
+                        display: block;
+                        color: #070d59;
+                        font-weight: bold;
+                        font-size: 28px;
+                      "
+                      >Vegetarian</span
+                    >
                   </div>
                 </a>
               </div>
+
               <div class="col-6 col-md-4 position-relative">
                 <a href="#meat" class="btn">
                   <img
@@ -114,11 +128,33 @@
                     alt="Meat"
                     class="img-fluid hexagon-img"
                   />
-                  <div class="overlay-text">
-                    <span style="color: #070d59; font-weight: 1000">Meat</span>
+                  <div
+                    class="overlay-text"
+                    style="
+                      position: absolute;
+                      top: 50%;
+                      left: 50%;
+                      transform: translate(-50%, -50%);
+                      text-align: center;
+                    "
+                  >
+                    <i
+                      class="fas fa-drumstick-bite"
+                      style="font-size: 36px; color: #070d59"
+                    ></i>
+                    <span
+                      style="
+                        display: block;
+                        color: #070d59;
+                        font-weight: bold;
+                        font-size: 28px;
+                      "
+                      >Meat</span
+                    >
                   </div>
                 </a>
               </div>
+
               <div class="col-6 col-md-4 position-relative">
                 <a href="#drinks" class="btn">
                   <img
@@ -126,14 +162,34 @@
                     alt="Drinks"
                     class="img-fluid hexagon-img"
                   />
-                  <div class="overlay-text">
-                    <span style="color: #070d59; font-weight: 1000">Beverages</span>
+                  <div
+                    class="overlay-text"
+                    style="
+                      position: absolute;
+                      top: 50%;
+                      left: 50%;
+                      transform: translate(-50%, -50%);
+                      text-align: center;
+                    "
+                  >
+                    <i
+                      class="fas fa-cocktail"
+                      style="font-size: 36px; color: #070d59"
+                    ></i>
+                    <span
+                      style="
+                        display: block;
+                        color: #070d59;
+                        font-weight: bold;
+                        font-size: 28px;
+                      "
+                      >Drinks</span
+                    >
                   </div>
                 </a>
               </div>
             </div>
           </div>
-          
         </div>
       </div>
     </nav>
