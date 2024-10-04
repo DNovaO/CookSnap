@@ -5,11 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link
-      rel="icon"
-      href="{% static 'resources/cooksnap-logo.png' %}"
-      alt="LyncottIcon"
-    />
+    <link rel="icon" href="{% static 'resources/cooksnap-logo.png' %}" alt="LyncottIcon" />
     <link rel="stylesheet" href="{% static 'styles/styleLogin.css' %}" />
     <title>CookSnap</title>
 
@@ -24,18 +20,22 @@
     <div class="container-fluid background">
         <div class="row vh-100">
             <!-- Carrusel -->
-            <div class="col-md-7 d-flex flex-column justify-content-center align-items-center text-white p-5 carousel slide" id="recipeCarousel" data-bs-ride="carousel">
+            <div class="col-md-7 d-flex flex-column justify-content-center align-items-center text-white p-5 carousel slide"
+                id="recipeCarousel" data-bs-ride="carousel">
                 <h1 class="mb-4 text-center">Create your recipes in a <span style="color: #ff5535;">flash!</span></h1>
-            
+
                 <!-- Bootstrap Carrusel -->
                 <div class="carousel-container">
                     <div class="carousel-images">
-                        <img src="{% static 'resources/stockphoto1.jpg' %}" alt="foto1" class="imagescarrousel" style="height: 80vh; width:35vh; object-fit: cover;">
-                        <img src="{% static 'resources/stockphoto2.jpg' %}" alt="foto2" class="imagescarrousel" style="height: 80vh; width:35vh; object-fit: cover;">
-                        <img src="{% static 'resources/stockphoto3.jpg' %}" alt="foto3" class="imagescarrousel" style="height: 80vh; width:35vh; object-fit: cover;">
+                        <img src="{% static 'resources/stockphoto1.jpg' %}" alt="foto1" class="imagescarrousel"
+                            style="height: 80vh; width:35vh; object-fit: cover;">
+                        <img src="{% static 'resources/stockphoto2.jpg' %}" alt="foto2" class="imagescarrousel"
+                            style="height: 80vh; width:35vh; object-fit: cover;">
+                        <img src="{% static 'resources/stockphoto3.jpg' %}" alt="foto3" class="imagescarrousel"
+                            style="height: 80vh; width:35vh; object-fit: cover;">
                     </div>
                 </div>
-            
+
                 <!-- <p class="mt-4 text-center small">Nota: Este carrusel debe ir rotando imágenes en algún sentido.</p> -->
             </div>
 
@@ -43,30 +43,35 @@
             <div class="col-md-5 d-flex flex-column justify-content-center align-items-center bg-white p-5 shadow-lg">
                 <img src="{% static 'resources/cooksnap-logo.png' %}" alt="CookSnap Logo" class="mb-4"
                     style="width: 35vh;">
-                <h2 class="mb-4 text-center " style="color: #ff5535;">Enter <span style = "color: #070D59;"> your account</span></h2>
+                <h2 class="mb-4 text-center " style="color: #ff5535;">Enter <span style="color: #070D59;"> your
+                        account</span></h2>
 
                 <form class="w-100" method="post" action="{% url 'login' %}">
                     {% csrf_token %} {{ form.non_field_errors }}
 
                     <div class="mb-3">
-                        <label for="{{ form.username.id_for_label }}" class="form-label" style="color: #070D59; font-weight: 600;">Email or Username</label>
+                        <label for="{{ form.username.id_for_label }}" class="form-label"
+                            style="color: #070D59; font-weight: 600;">Email or Username</label>
                         <input type="text" name="{{ form.username.html_name }}" id="{{ form.username.id_for_label }}"
-                            class="form-control" style ="border-color: #070D59; border-width: 2px;" placeholder="Email..." autocomplete="username" required
+                            class="form-control" style="border-color: #070D59; border-width: 2px;"
+                            placeholder="Email..." autocomplete="username" required
                             oninvalid="this.setCustomValidity('Por favor, ingresa tu nombre de usuario.')"
                             oninput="this.setCustomValidity('')" />
                     </div>
 
                     <div class="mb-3">
-                        <label for="{{ form.password.id_for_label }}" class="form-label" style="color: #070D59; font-weight: 600;">Password</label>
+                        <label for="{{ form.password.id_for_label }}" class="form-label"
+                            style="color: #070D59; font-weight: 600;">Password</label>
                         <input type="password" name="{{ form.password.html_name }}"
-                            id="{{ form.password.id_for_label }}" class="form-control" style ="border-color: #070D59; border-width: 2px;" placeholder="Password..."
+                            id="{{ form.password.id_for_label }}" class="form-control"
+                            style="border-color: #070D59; border-width: 2px;" placeholder="Password..."
                             autocomplete="current-password" required
                             oninvalid="this.setCustomValidity('Por favor, ingresa tu contraseña.')"
                             oninput="this.setCustomValidity('')" />
                     </div>
 
                     <div class="d-flex justify-content-between mb-4">
-                        <a href="{% url 'password_recovery' %}" style = "color: #08A0D0;">Forgot password?</a>
+                        <a href="{% url 'password_recovery' %}" style="color: #08A0D0;">Forgot password?</a>
                     </div>
 
                     <div class="d-flex justify-content-center">
@@ -74,7 +79,8 @@
                     </div>
                 </form>
 
-                <p class="mt-4" style="font-weight: 600;">Don't have an account? <a href="{% url 'register' %}" style="color: #08A0D0; font-weight: 600;">Register</a></p>
+                <p class="mt-4" style="font-weight: 600;">Don't have an account? <a href="{% url 'register' %}"
+                        style="color: #08A0D0; font-weight: 600;">Register</a></p>
             </div>
         </div>
     </div>
@@ -89,4 +95,5 @@
 
     <script src="{% static 'scripts/imgAnimation.js' %}"></script>
 </body>
+
 </html>
