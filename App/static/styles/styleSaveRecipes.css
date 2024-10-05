@@ -1,0 +1,26 @@
+.floating-table {
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.floating-table th,
+.floating-table td {
+    padding: 15px;
+    text-align: left;
+}
+
+.floating-table thead {
+    background: #ff7f50;
+    color: #fff;
+}
+
+.floating-table tbody tr:hover {
+    background: #f9f9f9;
+}
+
+.floating-table tbody tr:nth-child(even) {
+    background: #f2f2f2;
+}

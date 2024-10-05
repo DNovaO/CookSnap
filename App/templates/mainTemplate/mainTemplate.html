@@ -28,7 +28,10 @@
         <div class="container">    
             <div class="row align-items-center">
                 <div class="col-3 d-flex justify-content-center">
-                    <img src="{% static 'resources/cooksnap-logo.png'%}" alt="CookSnap Logo" style="width: 35vh; height: auto;">
+                    <a href="{% url 'main' %}">
+                        <img src="{% static 'resources/cooksnap-logo.png' %}" alt="Recipe Logo" class="hexagon-img"
+                            style="width: 35vh; height: auto" />
+                    </a>
                 </div>
                 <div class="col-9 d-flex justify-content-start">
                     <p style="font-size: 3vw; font-weight: 600; color: #000000;">

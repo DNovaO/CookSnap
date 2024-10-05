@@ -3,18 +3,90 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saved Recipes</title>
-    <link rel="stylesheet" href="{% static '' %}">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Groceries</title>
+
+    <link rel="icon" href="{% static 'resources/cooksnap-logo.png' %}" alt="LyncottIcon" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+    <link rel="stylesheet" href="{% static 'styles/styleGroceries.css' %}" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
 </head>
 
 <body class="background">
-    <h1 class="text-center">Your Groceries here</h1>
-    <div class="container">
-        <!-- Aquí puedes iterar sobre las recetas guardadas -->
-        <p>Lista de recetas guardadas aparecerá aquí.</p>
-    </div>
-</body>
+    <!-- Navbar -->
+    <nav class="pb-0 p-3">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-3 d-flex justify-content-center">
+                    <a href="{% url 'main' %}">
+                        <img src="{% static 'resources/cooksnap-logo.png' %}" alt="Recipe Logo" class="hexagon-img"
+                            style="width: 35vh; height: auto" />
+                    </a>
+                </div>
+                <div class="col-9 d-flex justify-content-between">
+                    <p style="font-size: 3vw; font-weight: 600; color: #000000">
+                        <span style="color: #ff5535">{{user.username|upper}}</span> your
+                        groceries list!
+                    </p>
+                    <div class="position-relative">
+                        <button class="btn menu-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#footerContent" aria-expanded="false" aria-controls="footerContent">
+                            <i class="bi bi-list"></i>
+                        </button>
+                        <div class="collapse position-absolute start-0" id="footerContent">
+                            <div class="bg-light p-2">
+                                <a href="{% url 'main' %}" class="d-block text-primary fs-5">Home</a>
+                                <a href="#" class="d-block text-primary fs-5">Notifications</a>
+                                <a href="#" class="d-block text-primary fs-5">Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
 
+    <div class="container mt-3">
+        <!-- Input para agregar ingredientes -->
+        <div class="mb-3">
+            <label for="ingredientInput" class="form-label">Add Ingredient</label>
+            <div class="input-group">
+                <input type="text" id="ingredientInput" class="form-control" placeholder="Enter ingredient" />
+                <button id="addIngredientBtn" class="ingredient-btn">Add</button>
+            </div>
+        </div>
+        <!-- Tabla de ingredientes -->
+        <div class="table-responsive" style="max-height: 300px; overflow-y: auto;">
+            <table class="table floating-table" id="ingredientTable">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Ingredient</th>
+                        <th scope="col">Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Aquí se agregarán dinámicamente los ingredientes -->
+                </tbody>
+            </table>
+        </div>
+        <div class="d-flex justify-content-center mt-3">
+            <button type="button" class="btn btn-primary">Go</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+
+</body>
+<script src="{% static '/scripts/deleteIngredient.js' %}"></script>
 </html>
