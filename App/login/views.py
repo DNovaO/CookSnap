@@ -1,4 +1,8 @@
-# Create your views here.
+"""
+version 1.0 - 18/10/2024 - Aguilar Velázquez Marco Antonio:
+    Inicia un método de vista que permite a los usuarios iniciar sesión en la aplicación.
+    Direccioa a la página principal si el usuario inicia sesión correctamente.
+"""
 from django.shortcuts import render, redirect
 from django.contrib.auth import login
 from django.contrib.auth.forms import AuthenticationForm
