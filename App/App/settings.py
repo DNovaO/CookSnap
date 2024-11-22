@@ -45,8 +45,8 @@ INSTALLED_APPS = [
     'password_recovery',
     'register',
     'password_change',
+    'photo',
     
-
 ]
 
 MIDDLEWARE = [

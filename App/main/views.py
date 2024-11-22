@@ -5,10 +5,8 @@ from django.contrib.auth.decorators import login_required
 def main_view(request):
     return render(request, 'mainTemplate/mainTemplate.html')
 
-from django.shortcuts import render
 
-def saved_recipes(request):
-    
+def saved_recipes(request):    
     return render(request, 'saved_recipes_template/saved_recipes.html')
 
 
