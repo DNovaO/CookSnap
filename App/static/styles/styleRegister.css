@@ -20,6 +20,10 @@ body {
     border: 3px solid #ff5535;
     border-radius: 20px;
     padding: 30px;
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
 >>>>>>> refs/remotes/origin/main
     background-color: white;
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.8);
@@ -47,6 +51,10 @@ body {
     height: auto;
     margin: auto;
 =======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
 >>>>>>> refs/remotes/origin/main
 }
 
@@ -59,8 +67,8 @@ h1 span {
 
 <<<<<<< HEAD
 form {
-    display: flex;
-    flex-direction: column;
+    display: block;
+    /* flex-direction: column; */
     border-radius: 10px;
 }
 
@@ -93,6 +101,10 @@ input[type="password"]:focus {
 button {
 =======
 .btn-custom {
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
 >>>>>>> refs/remotes/origin/main
     background-color: #ff5535;
     border: none;
@@ -376,6 +388,10 @@ button:hover {
         transform: translateY(-80vh) rotate(720deg); /* Eliminará la necesidad de scroll */
         opacity: 0;
     }
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
 >>>>>>> refs/remotes/origin/main
 }
 
