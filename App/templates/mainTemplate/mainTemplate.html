@@ -7,11 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CookSnap</title>
 
-    <link
-        rel="icon"
-        href="{% static 'resources/cooksnap-logo.png' %}"
-        alt="LyncottIcon"
-    />
+    <link rel="icon" href="{% static 'resources/cooksnap-logo.png' %}" alt="LyncottIcon" />
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
@@ -20,12 +16,162 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <link rel="stylesheet" href="{% static 'styles/styleMain.css' %}" />
+    <style>
+        html,
+        body {
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            overflow: hidden; /* Evita scroll */
+            display: flex;
+            flex-direction: column;
+        }
+
+        .position-relative {
+            position: relative;
+        }
+
+        .hexagon-img {
+            width: 100%;
+            max-width: 40vh;
+        }
+
+        .overlay-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 3vh;
+            text-align: center;
+        }
+
+        .icon-size {
+            font-size: 5vh;
+            color: #FF5535;
+        }
+
+        .overlay-text i {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        a.btn {
+            display: block;
+            position: relative;
+            text-decoration: none;
+        }
+
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 70px;
+            z-index: 1000;
+            background: linear-gradient(
+                220deg,
+                #08a0d0 24%,
+                #07256c 48%,
+                #071963 71%,
+                #070d59 91%
+            );
+            border-bottom: 3px solid #070d59;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .header .col-3 {
+    margin-right: 30px; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.header .col-3 a {
+    color: #FF5535; 
+    font-weight: 600;
+    text-align: center; 
+}
+
+.header .col-3 a:hover {
+    color: #d14a1b; 
+}
+
+.header .col-3 p {
+    margin-top: 5px; 
+    font-size: 1rem; 
+    color: #FF5535; 
+}
+
+        .main-content {
+            flex: 1; 
+            display: flex;
+            flex-direction: column;
+            justify-content: center; 
+            align-items: center; 
+            overflow: hidden; 
+        }
+
+        .hexagon-img {
+            transition: transform 2s ease-in-out;
+            animation: breathing 6s ease-in-out infinite;
+        }
+
+        @keyframes breathing {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05); 
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hexagon-img {
+                max-width: 25vh;
+            }
+
+            .overlay-text {
+                font-size: 2vh;
+            }
+
+            .icon-size {
+                font-size: 4vh;
+            }
+        }
+    </style>
 </head>
 
-<body class ="background"> 
+<body class="background">
+    <header class="container-fluid position-fixed top-0 text-white header">
+        <div class="row justify-content-center mt-3">
+            <div class="col-3 text-center">
+                <a href="#">
+                    <i class="bi bi-bell-fill" style="font-size: 1.5rem;"></i>
+                </a>
+                <p>Notifications</p>
+            </div>
+            
+            <div class="col-3 text-center">
+                <a href="#">
+                    <i class="bi bi-person-fill" style="font-size: 1.5rem;"></i>
+                </a>
+                <p>Profile</p>
+            </div>
+        </div>
+    </header>
+
     <!-- Navbar -->
-    <nav class="pb-0 p-3">
-        <div class="container">    
+    <nav class="pb-0 p-3" style="margin-top: 100px;">
+        <div class="container">
             <div class="row align-items-center">
                 <div class="col-3 d-flex justify-content-center">
                     <a href="{% url 'main' %}">
@@ -35,7 +181,7 @@
                 </div>
                 <div class="col-9 d-flex justify-content-start">
                     <p style="font-size: 3vw; font-weight: 600; color: #000000;">
-                        Welcome <span style="color: #FF5535;">{{ user.username }}</span>! ready to start cooking?
+                        Welcome <span style="color: #FF5535;">{{ user.username }}</span>! Ready to start cooking?
                     </p>
                 </div>
             </div>
@@ -44,76 +190,55 @@
 
     <p class="text-muted justify-content-center text-center">Fase pre-alpha</p>
 
-    <div class="container">
-        <div class="row text-center p-3">
-            <div class="col-6 col-md-3 position-relative">
-                <a href="#" class="btn">
-                    <img src="{% static 'resources/hexa.png' %}" alt="hexagono 1" class="img-fluid hexagon-img">
-                    <div class="overlay-text">
-                        <i class="bi bi-plus-circle-fill icon-size"></i>
-                        <span style="color:#070D59; font-weight:600;">Take a photo</span>
-                    </div>
-                </a>
-            </div>
-            <div class="col-6 col-md-3 position-relative">
-                <!-- Enlace para "Saved Recipes" -->
-                <a href="{% url 'saved_recipes' %}" class="btn">
-                    <img src="{% static 'resources/hexa.png' %}" alt="hexagono 2" class="img-fluid hexagon-img">
-                    <div class="overlay-text">
-                        <i class="bi bi-folder-fill icon-size"></i>
-                        <span style="color:#070D59; font-weight:600;">Saved recipes</span>
-                    </div>
-                </a>
-            </div>
-            <div class="col-6 col-md-3 position-relative">
-                <a href="{% url 'explore_recipes' %}" class="btn">
-                    <img src="{% static 'resources/hexa.png' %}" alt="hexagono 3" class="img-fluid hexagon-img">
-                    <div class="overlay-text">
-                        <i class="bi bi-search icon-size"></i>
-                        <span style="color:#070D59; font-weight:600;">Explore
-                            recipes</span>
-                    </div>
-                </a>
-            </div>
-            <div class="col-6 col-md-3 position-relative">
-                <!-- Enlace para "Groceries" -->
-                <a href="{% url 'groceries' %}" id="groceries-btn" class="btn">
-                    <img src="{% static 'resources/hexa.png' %}" alt="hexagono 4" class="img-fluid hexagon-img">
-                    <div class="overlay-text">
-                        <i class="bi bi-basket-fill icon-size"></i>
-                        <span style="color:#070D59; font-weight:600;">Groceries</span>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-
-    <!-- Footer -->
-    <footer class="container-fluid position-fixed bottom-0 text-white footer" style="border-top: 5px solid #070D59;">
-        <div class="row justify-content-center mt-3">
-            <div class="col-3 text-center">
-                <a href="#" style="color: #070D59;"><i class="bi bi-house-door-fill" style="font-size: 1.5rem;"></i></a>
-                <p style="color: #070D59; font-weight:600;">Home</p>
-            </div>
-            <div class="col-3 text-center">
-                <a href="#" style="color: #070D59;"><i class="bi bi-bell-fill" style="font-size: 1.5rem;"></i></a>
-                <p style="color: #070D59; font-weight:600;">Notifications</p>
-            </div>
-            <div class="col-3 text-center">
-                <a href="#" style="color: #070D59;"><i class="bi bi-person-fill" style="font-size: 1.5rem;"></i></a>
-                <p style="color: #070D59; font-weight:600;">Profile</p>
+    <main class="main-content">
+        <div class="container">
+            <div class="row text-center p-3">
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="#" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="hexagono 1" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-plus-circle-fill icon-size"></i>
+                            <span style="color:#070D59; font-weight:600;">Take a photo</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="{% url 'saved_recipes' %}" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="hexagono 2" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-folder-fill icon-size"></i>
+                            <span style="color:#070D59; font-weight:600;">Saved recipes</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="{% url 'explore_recipes' %}" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="hexagono 3" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-search icon-size"></i>
+                            <span style="color:#070D59; font-weight:600;">Explore recipes</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 position-relative">
+                    <a href="{% url 'groceries' %}" id="groceries-btn" class="btn">
+                        <img src="{% static 'resources/hexa.png' %}" alt="hexagono 4" class="img-fluid hexagon-img">
+                        <div class="overlay-text">
+                            <i class="bi bi-basket-fill icon-size"></i>
+                            <span style="color:#070D59; font-weight:600;">Groceries</span>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
-    </footer>
+    </main>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
         integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
         crossorigin="anonymous"></script>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXgdv9rLtylVs5HFXe8hYYIkwn7ceU7z"
         crossorigin="anonymous"></script>
 </body>
-<script src="{% static '/scripts/imgBreathing.js' %}"></script>
-</html>
 
+</html>
