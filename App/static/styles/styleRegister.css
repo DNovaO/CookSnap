@@ -1,24 +1,26 @@
-* {
+body { 
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     height: 100vh;
+    background-color: #f4f4f4;
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
 }
 
+<<<<<<< HEAD
 
 .container {
     border: 3px solid #ff5535;
     border-radius: 20px;
     padding: 10px;
+=======
+.recovery-container {
+    border: 3px solid #ff5535;
+    border-radius: 20px;
+    padding: 30px;
+>>>>>>> refs/remotes/origin/main
     background-color: white;
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.8);
     max-width: 500px;
@@ -27,6 +29,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+<<<<<<< HEAD
 }
 
 .logo-container {
@@ -43,14 +46,18 @@ body {
     width: 20vh;
     height: auto;
     margin: auto;
+=======
+>>>>>>> refs/remotes/origin/main
 }
 
 h1 {
-    margin-bottom: 20px;
-    color: #333;
-    text-align: center;
+    font-weight: 600;
+}
+h1 span {
+    color: #ff5535;
 }
 
+<<<<<<< HEAD
 form {
     display: flex;
     flex-direction: column;
@@ -84,12 +91,16 @@ input[type="password"]:focus {
 }
 
 button {
+=======
+.btn-custom {
+>>>>>>> refs/remotes/origin/main
     background-color: #ff5535;
     border: none;
     color: white;
     font-size: 16px;
     padding: 10px;
     font-weight: 600;
+<<<<<<< HEAD
     border-radius: 20px;
     cursor: pointer;
     width: 100%; 
@@ -97,6 +108,275 @@ button {
 
 button:hover {
     background-color: #e14a2f;
+=======
+    border-radius: 5px;
+    cursor: pointer;
+    width: 80%; /* Para que el botón use el 100% del espacio disponible */
+}
+
+/* Cambiar el color del botón cuando el usuario pasa el cursor */
+.btn-custom:hover {
+    background-color: #e14a2f;
+}
+
+/* Ocultar alertas por defecto */
+.hidden-alert {
+    display: none; /* No se muestra inicialmente */
+}
+
+/* Cuando se muestra la alerta */
+.alert-container .alert {
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alert {
+    transition: opacity 0.5s ease;
+    opacity: 1;
+}
+
+
+/* Animated Circles CSS */
+.circles {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden; /* Esto asegura que nada se desborde del contenedor */
+}
+
+.circles li {
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 15px;
+    height: 15px;
+    background: rgba(118, 207, 223, 0.8);
+    animation: animate 20s linear infinite;
+    bottom: calc(-20px - 10vh); /* Ajustado para que los círculos comiencen más arriba */
+}
+
+.circles li:nth-child(1) {
+    left: 25%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    border-top-left-radius: 0 !important;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(2) {
+    left: 10%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 0s;
+    animation-duration: 22s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(3) {
+    left: 70%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(4) {
+    left: 40%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 0s;
+    animation-duration: 14s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(5) {
+    left: 65%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(6) {
+    left: 75%;
+    width: 80px;
+    height: 80px;
+    animation-delay: 0s;
+    animation-duration: 24s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(7) {
+    left: 35%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 0s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(8) {
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 0s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(9) {
+    left: 20%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 0s;
+    animation-duration: 32s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(10) {
+    left: 85%;
+    width: 45px;
+    height: 45px;
+    animation-delay: 0s;
+    animation-duration: 36s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(11) {
+    left: 15%;
+    width: 35px;
+    height: 35px;
+    animation-delay: 2s;
+    animation-duration: 20s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(12) {
+    left: 55%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 4s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(13) {
+    left: 80%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 6s;
+    animation-duration: 24s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(14) {
+    left: 5%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 8s;
+    animation-duration: 32s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(15) {
+    left: 45%;
+    width: 55px;
+    height: 55px;
+    animation-delay: 10s;
+    animation-duration: 30s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(16) {
+    left: 30%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 12s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(17) {
+    left: 25%;
+    width: 45px;
+    height: 45px;
+    animation-delay: 14s;
+    animation-duration: 22s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(18) {
+    left: 60%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 16s;
+    animation-duration: 20s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(19) {
+    left: 75%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 18s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(20) {
+    left: 40%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 20s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+@keyframes animate {
+    0% {
+        transform: translateY(0) rotate(0deg);
+        opacity: 0;
+    }
+    50% {
+        transform: translateY(-30vh) rotate(360deg); /* Moviendo un poco menos */
+        opacity: 0.5;
+    }
+    100% {
+        transform: translateY(-80vh) rotate(720deg); /* Eliminará la necesidad de scroll */
+        opacity: 0;
+    }
+>>>>>>> refs/remotes/origin/main
 }
 
 
