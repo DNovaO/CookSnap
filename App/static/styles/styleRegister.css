@@ -9,22 +9,11 @@ body {
     overflow: hidden;
 }
 
-<<<<<<< HEAD
 
 .container {
     border: 3px solid #ff5535;
     border-radius: 20px;
     padding: 10px;
-=======
-.recovery-container {
-    border: 3px solid #ff5535;
-    border-radius: 20px;
-    padding: 30px;
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/main
-=======
->>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
->>>>>>> refs/remotes/origin/main
     background-color: white;
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.8);
     max-width: 500px;
@@ -33,7 +22,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-<<<<<<< HEAD
 }
 
 .logo-container {
@@ -50,10 +38,6 @@ body {
     width: 20vh;
     height: auto;
     margin: auto;
-=======
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/main
-=======
 >>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
 >>>>>>> refs/remotes/origin/main
 }
