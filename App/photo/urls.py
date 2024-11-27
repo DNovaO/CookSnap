@@ -1,6 +1,5 @@
 from django.urls import path
-from . import views
-
+from .views import photo_view
 urlpatterns = [
-    path('photo/', views.photo, name='photo'),
+    path('photo/', photo_view, name='photo'),
 ]
