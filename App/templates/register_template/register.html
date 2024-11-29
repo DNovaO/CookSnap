@@ -17,7 +17,9 @@
     <div class="container d-flex justify-content-center align-items-center vh-80">
         <div class="recovery-container text-center">
             <header class="mb-2">
-                <img src="{% static 'resources/cooksnap-logo.png' %}" alt="Logo" class="logo mb-4" style="width: 35vh; height: auto;">
+                <a href="{% url 'login' %}">
+                    <img src="{% static 'resources/cooksnap-logo.png' %}" alt="Logo" class="logo mb-4" style="width: 35vh; height: auto;">
+                </a>
             </header>
 
             <h1 class="mb-4"><span style="color:#ff5535;">Sign </span> up!</h1>
