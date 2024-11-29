@@ -1,13 +1,17 @@
 html,
 body {
     height: 100vh;
-    margin-top:45px;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow: hidden; /* Evita scroll */
     display: flex;
     flex-direction: column;
+    background-color: #e5e5f7;
+    opacity: 1;
+    background: radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#FF5535 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #070d59 2px, #e5e5f7 2px) -1px 0;
+    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
 }
+
 .floating-table {
     background: #fff;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
@@ -31,7 +35,7 @@ body {
 }
 
 .ingredient-btn {
-    background-color: #ff7f50;
+    background-color: #FF5535;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -82,4 +86,74 @@ body {
   font-size: 1rem; 
   color: #FF5535; 
   }
-  
+   
+.hexagon-img {
+    width: 100%;
+    max-width: 40vh;
+}
+
+.navbar .navbar-brand img {
+    width: 100px;
+    height: auto;
+    min-width: 100px;
+    height: auto;
+}
+
+.navbar .nav-link {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #000000;
+}
+
+.navbar .nav-link span {
+    color: #FF5535;
+}
+
+@media (max-width: 576px) {
+    .navbar .nav-link {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+}
+
+#recipesContainer {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#recipesContainer th,
+#recipesContainer td {
+    padding: 10px;
+    text-align: center;
+}
+
+#recipesContainer th {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+#recipesContainer td a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+#recipesContainer td a:hover {
+    text-decoration: underline;
+}
+
+.search-btn {
+    background-color: #ff5535;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.search-btn:hover {
+    background-color: #d14a1b;
+    color: white;
+}

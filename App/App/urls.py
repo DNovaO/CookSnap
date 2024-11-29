@@ -14,7 +14,4 @@ urlpatterns = [
     path('register/', include('register.urls') ),
     path('password_change/', include('password_change.urls')),
     path('photo/', include('photo.urls')),
-
-
-
 ]

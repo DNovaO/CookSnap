@@ -7,7 +7,12 @@ function sendDataToBackend() {
         ingredientList.push(ingredient);
     });
 
-    // Mostramos la lista en consola y limpiamos la tabla
+    if (ingredientList.length === 0) {
+        alert("Please add at least one ingredient!");
+        return;  // Si no hay ingredientes, no envíes la solicitud
+    }
+
+    // Mostrar los ingredientes en consola y limpiar la tabla
     console.log('Lista de ingredientes:', ingredientList);
     document.querySelector('table tbody').innerHTML = '';
 
@@ -20,10 +25,54 @@ function sendDataToBackend() {
         },
         body: JSON.stringify({ ingredients: ingredientList })
     })
-        .then(response => response.json())
-        .then(data => console.log(data)) // Ver el resultado en la consola
-        .catch(error => console.error('Error:', error));
+    .then(response => response.json())
+    .then(data => {
+        const recipesContainer = document.getElementById('recipesContainer');
+        
+        // Limpiar la tabla antes de agregar nuevas filas
+        const tbody = recipesContainer.querySelector('tbody');
+        tbody.innerHTML = '';
+    
+        // Verificar si hay datos en recipe_links
+        if (data.recipe_links && data.recipe_links.length > 0) {
+            data.recipe_links.forEach(recipe => {
+                // Crear una nueva fila
+                const row = document.createElement('tr');
+    
+                // Celda para el ingrediente
+                const tdIngredient = document.createElement('td');
+                tdIngredient.textContent = recipe.ingredient;
+                tdIngredient.classList.add('ingredient-cell');
+                row.appendChild(tdIngredient);
+    
+                // Celda para el enlace de la receta
+                const tdRecipe = document.createElement('td');
+                const link = document.createElement('a');
+                link.href = recipe.url;
+                link.target = '_blank';
+                link.textContent = 'View Recipe';
+                link.classList.add('recipe-link'); // Clase para estilos
+                tdRecipe.appendChild(link);
+                row.appendChild(tdRecipe);
+    
+                // Agregar la fila al cuerpo de la tabla
+                tbody.appendChild(row);
+            });
+        } else {
+            // Mostrar mensaje si no hay recetas
+            const row = document.createElement('tr');
+            const tdMessage = document.createElement('td');
+            tdMessage.colSpan = 2; // Hacer que ocupe ambas columnas
+            tdMessage.textContent = 'No recipes found for the ingredients.';
+            tdMessage.classList.add('no-recipes-message'); // Clase para estilos
+            row.appendChild(tdMessage);
+            tbody.appendChild(row);
+        }
+    })  
+    .catch(error => console.error('Error:', error));
+
 }
+
 
 // Esta función es necesaria para obtener el CSRF token (proteger el envío de datos)
 function getCookie(name) {
