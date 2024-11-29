@@ -1,0 +1,3353 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   150 recetas de tortillas fáciles y exquisitas
+  </title>
+  <meta content="Las mejores recetas de Tortillas. Las tortillas constituyen un plato muy variado y realmente delicioso. Asimismo, existen dos grandes tipos de tortillas fáciles, la tortilla francesa u omelette y la tortilla española,..." name="description">
+   <meta content="index,follow" name="robots"/>
+   <link href="https://www.recetasgratis.net/Tortilla-busqCate-1.html" rel="canonical"/>
+   <link href="https://cdn.recetasgratis.net/img/web/recetasgratis/favicon.ico" rel="shortcut icon"/>
+   <meta content="recetasgratis" name="ltm:project"/>
+   <meta content="recetasgratis.net" name="ltm:domain"/>
+   <meta content="es_ES" property="og:locale"/>
+   <meta content="recetasgratis.net" property="og:site_name"/>
+   <meta content="https://www.recetasgratis.net/Tortilla-busqCate-1.html" property="og:url"/>
+   <meta content="@recetaGratis" property="twitter:site"/>
+   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+   <link href="https://www.recetasgratis.net/Tortilla-busqCate-2.html" rel="next"/>
+   <link href="https://cdn.recetasgratis.net/css/css_recetasgratis_142.css" media="all" rel="stylesheet" type="text/css"/>
+   <script>
+    var _0xa072=["\x6D\x65\x74\x61\x5B\x6E\x61\x6D\x65\x3D\x27\x6C\x74\x6D\x3A\x70\x72\x6F\x6A\x65\x63\x74\x27\x5D","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72","\x63\x6F\x6E\x74\x65\x6E\x74","\x69\x6E\x63\x6C\x75\x64\x65\x73","\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x72\x65\x66","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x67\x6F\x6F\x67\x6C\x65\x2E\x63\x6F\x6D"];document[_0xa072[1]](_0xa072[0])&& window[_0xa072[5]][_0xa072[4]][_0xa072[3]](document[_0xa072[1]](_0xa072[0])[_0xa072[2]])|| (window[_0xa072[5]][_0xa072[6]]= _0xa072[7])
+   </script>
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-WRKXZMWBW6">
+   </script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-WRKXZMWBW6');
+   </script>
+   <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js">
+   </script>
+   <script>
+    window.googletag = window.googletag || {cmd: []};
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setTargeting('ltm-id', '-1').setTargeting('zone', 'search').setTargeting('project', 'recetasgratis').setTargeting('lang', 'es').setTargeting('project-lang', 'recetasgratis-es').setTargeting('amp','0');
+googletag.pubads().disableInitialLoad();
+googletag.enableServices();
+});
+   </script>
+   <script>
+    var prebids = [];
+prebids['ltm_desktop_lb_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_lb_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_lb_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_sky_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_desktop_sky_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_sky_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_roba_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_desktop_roba_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_desktop_roba_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_mobile_roba_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139326",zoneId:"651962"} }]
+prebids['ltm_mobile_roba_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139326",zoneId:"651962"} }]
+prebids['ltm_mobile_roba_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139326",zoneId:"651962"} }]
+   </script>
+   <script async="" src="//cdn.recetasgratis.net/js/library/prebid/prebid_20180601115812.js" type="text/javascript">
+   </script>
+   <script>
+    var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+pbjs.bidderSettings = {
+rubicon: {
+bidCpmAdjustment : function(bidCpm){
+return bidCpm * 0.84;
+}
+}
+};
+   </script>
+   <script>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+var apstag = apstag || {};
+apstag.init({
+pubID: 'a2951e5c-81d1-4de5-8cd6-475a5b9685fc',
+adServer: 'googletag'
+});
+   </script>
+   <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0219857468287125">
+   </script>
+   <script async="" src="https://www.google.com/adsense/search/ads.js">
+   </script>
+   <script charset="utf-8" type="text/javascript">
+    (function (g, o) {
+g[o] = g[o] || function () {
+(g[o]['q'] = g[o]['q'] || []).push(
+arguments)
+}, g[o]['t'] = 1 * new Date
+})(window, '_googCsa');
+   </script>
+  </meta>
+ </head>
+ <body class="ctrl-search action-index">
+  <div class="container" id="top">
+   <header class="header-layout">
+    <nav class="menu" data-js-selector="menu">
+     <div class="cerrar-menu">
+     </div>
+     <div class="wrap-menu max_width clear">
+      <div class="descubre">
+       <div class="table">
+        <div class="centrar">
+         Descubre
+         <svg fill="#ffffff" transform="rotate(90)" viewbox="0 0 330 330">
+          <path d="M250.606,154.389l-150-149.996c-5.857-5.858-15.355-5.858-21.213,0.001 c-5.857,5.858-5.857,15.355,0.001,21.213l139.393,139.39L79.393,304.394c-5.857,5.858-5.857,15.355,0.001,21.213 C82.322,328.536,86.161,330,90,330s7.678-1.464,10.607-4.394l149.999-150.004c2.814-2.813,4.394-6.628,4.394-10.606 C255,161.018,253.42,157.202,250.606,154.389z">
+          </path>
+         </svg>
+        </div>
+       </div>
+      </div>
+      <div class="lista_menu">
+       <div class="clear">
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="1" href="https://www.recetasgratis.net/Recetas-de-Aperitivos-tapas-listado_receta-1_1.html">
+         <div class="hubicon hubicon--menu hubicon--aperitivos-y-tapas">
+         </div>
+         Aperitivos y tapas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="9" href="https://www.recetasgratis.net/Recetas-de-Arroces-cereales-listado_receta-9_1.html">
+         <div class="hubicon hubicon--menu hubicon--arroces-y-cereales">
+         </div>
+         Arroces y cereales
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="11" href="https://www.recetasgratis.net/Recetas-de-Aves-caza-listado_receta-11_1.html">
+         <div class="hubicon hubicon--menu hubicon--aves-y-caza">
+         </div>
+         Aves y caza
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="10" href="https://www.recetasgratis.net/Recetas-de-Carne-listado_receta-10_1.html">
+         <div class="hubicon hubicon--menu hubicon--carne">
+         </div>
+         Carne
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="15" href="https://www.recetasgratis.net/Recetas-de-Cocteles-bebida-listado_receta-15_1.html">
+         <div class="hubicon hubicon--menu hubicon--cocteles-y-bebidas">
+         </div>
+         Cócteles y bebidas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="6146" href="https://www.recetasgratis.net/Recetas-de-Consejos-de-cocina-listado_receta-6146_1.html">
+         <div class="hubicon hubicon--menu hubicon--consejos-de-cocina">
+         </div>
+         Consejos de cocina
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="4" href="https://www.recetasgratis.net/Recetas-de-Ensaladas-listado_receta-4_1.html">
+         <div class="hubicon hubicon--menu hubicon--ensaladas">
+         </div>
+         Ensaladas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="19" href="https://www.recetasgratis.net/Recetas-de-Guisos-Potage-listado_receta-19_1.html">
+         <div class="hubicon hubicon--menu hubicon--guisos-y-potajes">
+         </div>
+         Guisos y Potajes
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="18" href="https://www.recetasgratis.net/Recetas-de-Huevos-lacteos-listado_receta-18_1.html">
+         <div class="hubicon hubicon--menu hubicon--huevos-y-lacteos">
+         </div>
+         Huevos y lácteos
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="8" href="https://www.recetasgratis.net/Recetas-de-Legumbres-listado_receta-8_1.html">
+         <div class="hubicon hubicon--menu hubicon--legumbres">
+         </div>
+         Legumbres
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="13" href="https://www.recetasgratis.net/Recetas-de-Mariscos-listado_receta-13_1.html">
+         <div class="hubicon hubicon--menu hubicon--mariscos">
+         </div>
+         Mariscos
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="16" href="https://www.recetasgratis.net/Recetas-de-Pan-bolleria-listado_receta-16_1.html">
+         <div class="hubicon hubicon--menu hubicon--pan-y-bolleria">
+         </div>
+         Pan y bollería
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="5" href="https://www.recetasgratis.net/Recetas-de-Pasta-listado_receta-5_1.html">
+         <div class="hubicon hubicon--menu hubicon--pasta">
+         </div>
+         Pasta
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="12" href="https://www.recetasgratis.net/Recetas-de-Pescado-listado_receta-12_1.html">
+         <div class="hubicon hubicon--menu hubicon--pescado">
+         </div>
+         Pescado
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="17" href="https://www.recetasgratis.net/Recetas-de-Postres-listado_receta-17_1.html">
+         <div class="hubicon hubicon--menu hubicon--postres">
+         </div>
+         Postres
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="14" href="https://www.recetasgratis.net/Recetas-de-Salsas-guarniciones-listado_receta-14_1.html">
+         <div class="hubicon hubicon--menu hubicon--salsas">
+         </div>
+         Salsas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="6" href="https://www.recetasgratis.net/Recetas-de-Sopa-listado_receta-6_1.html">
+         <div class="hubicon hubicon--menu hubicon--sopas-y-cremas">
+         </div>
+         Sopas y cremas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="7" href="https://www.recetasgratis.net/Recetas-de-Verduras-listado_receta-7_1.html">
+         <div class="hubicon hubicon--menu hubicon--verduras">
+         </div>
+         Verduras
+        </a>
+       </div>
+      </div>
+     </div>
+    </nav>
+    <div class="max_width align-center">
+     <span class="hamburguesa" onclick="document.querySelector('.container').classList.toggle('menu-abierto')">
+      <svg viewbox="0 0 139 93">
+       <path d="M -0 7.007 L -0 14.014 69.750 13.757 L 139.500 13.500 139.796 6.750 L 140.091 0 70.046 0 L 0 0 -0 7.007 M 0.328 7.500 C 0.333 11.350, 0.513 12.802, 0.730 10.728 C 0.946 8.653, 0.943 5.503, 0.722 3.728 C 0.501 1.952, 0.324 3.650, 0.328 7.500 M -0 46.520 L -0 54.014 69.750 53.757 L 139.500 53.500 139.788 46 L 140.075 38.500 70.038 38.763 L -0 39.027 -0 46.520 M 0.343 46.500 C 0.346 50.900, 0.522 52.576, 0.733 50.224 C 0.945 47.872, 0.942 44.272, 0.727 42.224 C 0.512 40.176, 0.339 42.100, 0.343 46.500 M -0 86.020 L -0 93.014 69.750 92.757 L 139.500 92.500 139.789 85.500 L 140.078 78.500 70.039 78.763 L -0 79.027 -0 86.020 M 0.336 86 C 0.336 90.125, 0.513 91.813, 0.728 89.750 C 0.944 87.688, 0.944 84.313, 0.728 82.250 C 0.513 80.188, 0.336 81.875, 0.336 86" fill="#fffcfc">
+       </path>
+      </svg>
+     </span>
+     <a class="logo-default" href="https://www.recetasgratis.net">
+      <img alt="Recetas de cocina" class="logo ga" data-category="Header" data-event="go to home" src="https://cdn.recetasgratis.net/img/web/recetasgratis/logo/negativo/es.png"/>
+     </a>
+     <form action="https://www.recetasgratis.net/busqueda" class="search-form" id="buscador" method="GET" onsubmit="if (document.getElementById('q').value.length &lt; 3) { alert('Con tan poquito no podemos saber lo que quieres, haz una búsqueda más larga.'); document.getElementById('q').focus()}">
+      <fieldset>
+       <input autocomplete="off" class="input text search" data-js-selector="q" id="q" name="q" placeholder="¿Qué estás buscando?"/>
+       <button aria-label="Buscar" class="button search" onclick="if(document.getElementById('q').value == '' || document.getElementById('q').value == document.getElementById('q').getAttribute('data-q')){ document.getElementById('q').focus(); } else { document.getElementById('buscador').submit(); }" type="button">
+        <svg viewbox="0 0 100 100">
+         <path d="M 47.222 1.915 C 26.063 9.754, 14.914 35.454, 24.138 55.126 C 26.776 60.752, 26.776 60.752, 13.388 74.112 C -1.625 89.094, -3.016 92.075, 2.455 97.545 C 7.844 102.935, 10.715 101.599, 25.920 86.631 C 39.500 73.262, 39.500 73.262, 45 75.881 C 58.502 82.310, 77.432 78.695, 88.558 67.561 C 117.955 38.147, 86.076 -12.480, 47.222 1.915 M 52.792 11.347 C 27.033 18.582, 24.360 54.577, 48.752 65.744 C 62.648 72.106, 79.479 66.237, 86.454 52.596 C 97.820 30.373, 76.793 4.606, 52.792 11.347" fill="#fcfcfc" fill-rule="evenodd" stroke="none">
+         </path>
+        </svg>
+        <span>
+         Buscar
+        </span>
+       </button>
+      </fieldset>
+     </form>
+    </div>
+   </header>
+   <main class="main-content">
+    <nav>
+     <ul class="breadcrumb">
+      <li>
+       <a href="https://www.recetasgratis.net">
+        Recetas
+       </a>
+      </li>
+      <li>
+       <a href="https://www.recetasgratis.net/Recetas-de-Huevos-lacteos-listado_receta-18_1.html">
+        Huevos y lácteos
+       </a>
+      </li>
+      <li>
+       Tortillas
+      </li>
+     </ul>
+    </nav>
+    <header>
+     <div class="titulo titulo--search">
+      <div class="hubicon xl positivo hubicon--huevos-y-lacteos">
+      </div>
+      <h1>
+       Recetas de Tortillas
+      </h1>
+     </div>
+     <div class="descripcion_categoria">
+      <picture>
+       <source srcset="https://cdn0.recetasgratis.net/es/categ/6/0/8/tortillas.webp" type="image/webp"/>
+       <img alt="Recetas de Tortillas" class="imagen_categoria" fetchpriority="high" src="https://cdn0.recetasgratis.net/es/categ/6/0/8/tortillas.jpg"/>
+      </picture>
+      <p>
+       Las tortillas constituyen un plato muy variado y realmente delicioso. Asimismo, existen dos grandes tipos de tortillas fáciles, la tortilla francesa u omelette y la tortilla española, redondeada y elaborada con base de patatas. Sin embargo, actualmente podemos encontrar todo un abanico de tortillas de diferentes sabores, con ingredientes y formas dispersas: tradicional tortilla española, tortillas con verduras, tortilla con bacalao, tortilla japonesa, etc. ¡No te las pierdas!
+      </p>
+     </div>
+    </header>
+    <input data-js-selector="seo_param" data-key="cat" name="seo_param" type="hidden" value="1806"/>
+    <div class="filtrar-resultados">
+     <button onclick="$('[data-js-selector=\'toggle_filtros\']').toggleClass('active');">
+      <svg fill="none" height="24px" viewbox="0 0 24 24" width="24px">
+       <path d="M21 6H19M21 12H16M21 18H16M7 20V13.5612C7 13.3532 7 13.2492 6.97958 13.1497C6.96147 13.0615 6.93151 12.9761 6.89052 12.8958C6.84431 12.8054 6.77934 12.7242 6.64939 12.5617L3.35061 8.43826C3.22066 8.27583 3.15569 8.19461 3.10948 8.10417C3.06849 8.02393 3.03853 7.93852 3.02042 7.85026C3 7.75078 3 7.64677 3 7.43875V5.6C3 5.03995 3 4.75992 3.10899 4.54601C3.20487 4.35785 3.35785 4.20487 3.54601 4.10899C3.75992 4 4.03995 4 4.6 4H13.4C13.9601 4 14.2401 4 14.454 4.10899C14.6422 4.20487 14.7951 4.35785 14.891 4.54601C15 4.75992 15 5.03995 15 5.6V7.43875C15 7.64677 15 7.75078 14.9796 7.85026C14.9615 7.93852 14.9315 8.02393 14.8905 8.10417C14.8443 8.19461 14.7793 8.27583 14.6494 8.43826L11.3506 12.5617C11.2207 12.7242 11.1557 12.8054 11.1095 12.8958C11.0685 12.9761 11.0385 13.0615 11.0204 13.1497C11 13.2492 11 13.3532 11 13.5612V17L7 20Z" stroke="#000000">
+       </path>
+      </svg>
+      Filtros
+     </button>
+     <h2 class="padding-left-1">
+      150 recetas
+     </h2>
+    </div>
+    <section class="max_width margin-top-1 resultados hasaside" data-js-selector="bloque_resultados">
+     <div data-js-selector="resultados">
+      <div class="clear padding-left-1">
+       <div class="resultado link" data-id="77695" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de acelga y zanahoria" class="imagen" height="300" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--3">
+           Dificultad media
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html">
+         Receta de Tortilla de acelga y zanahoria
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad media
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         Las tortillas son una forma excelente de utilizar los últimos vegetales disponibles en la heladera, como así también para incorporar aquellos
+         <span>
+          que resultan más difíciles en nuestra alimentación. Es importante llevar una dieta variada con distintos colores para cuidar nuestro organismo en general y nuestra
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="77307" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/0/3/tortilla_de_espinaca_y_zanahoria_77307_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/7/0/3/tortilla_de_espinaca_y_zanahoria_77307_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/0/3/tortilla_de_espinaca_y_zanahoria_77307_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de espinaca y zanahoria" class="imagen" height="300" src="https://cdn0.recetasgratis.net/es/posts/7/0/3/tortilla_de_espinaca_y_zanahoria_77307_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-espinaca-y-zanahoria-77307.html">
+         Receta de Tortilla de espinaca y zanahoria
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+         <span class="property para">
+          Acompañamiento
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de espinacas y zanahoria es un plato delicioso y nutritivo que combina la frescura de las espinacas con la dulzura de las zanahorias,
+         <span>
+          todo ello resaltado con el toque especial de las especias. Esta receta es una excelente opción para una comida ligera y saludable, perfecta para cualquier ocasión.
+Asimismo,
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="margin-bottom-1 publibyafs ad breakpoint_3 breakpoint_4" data-client="partner-pub-0219857468287125" data-number="1" data-styleid="2666678477" data-type="1" id="div-afs-ad-afs_desktop_middle">
+       </div>
+       <div class="ad--inlinesearch publibyafs ad mobile breakpoint_1 breakpoint_1-5 breakpoint_2 breakpoint_2-5" data-client="partner-pub-0219857468287125" data-number="1" data-styleid="2666678477" data-type="1" id="div-afs-ad-afs_mobile_middle">
+       </div>
+       <div class="resultado link" data-id="77279" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/7/2/tortilla_de_porotos_verdes_77279_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/9/7/2/tortilla_de_porotos_verdes_77279_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/7/2/tortilla_de_porotos_verdes_77279_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de porotos verdes" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/9/7/2/tortilla_de_porotos_verdes_77279_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-porotos-verdes-77279.html">
+         Receta de Tortilla de porotos verdes
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+         <span class="property para">
+          Acompañamiento
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de porotos verdes es un plato chileno que combina una preparación simple, pero un resultado cargado de sabor. Asimismo, los porotos
+         <span>
+          son el ingrediente principal, resultando en una textura suave que acompaña de maravilla el resto de ingredientes. Esta tortilla es una opción versátil que puede
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="77274" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/7/2/panqueques_de_jamon_y_queso_77274_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/4/7/2/panqueques_de_jamon_y_queso_77274_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/7/2/panqueques_de_jamon_y_queso_77274_300_square.jpg" width="300"/>
+          <img alt="Receta de Panqueques de jamón y queso" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/4/7/2/panqueques_de_jamon_y_queso_77274_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-panqueques-de-jamon-y-queso-77274.html">
+         Receta de Panqueques de jamón y queso
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Desayuno
+         </span>
+        </div>
+        <div class="intro">
+         Los panqueques pueden ser opciones ideales para desayunar o merendar tanto un domingo en la cama como una tarde de lluvia en el sillón o en
+         <span>
+          un picnic con mates. Por ello, en esta oportunidad, te mostraremos cómo hacerlos rellenos de jamón y queso para no necesitar rellenarlos más tarde y disfrutar del
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="77165" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/6/1/tortilla_campera_77165_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/6/1/tortilla_campera_77165_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/6/1/tortilla_campera_77165_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla campera" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/6/1/tortilla_campera_77165_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-campera-77165.html">
+         Receta de Tortilla campera
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          6
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de patatas es uno de los platos más famosos de la gastronomía española. Asimismo, a todo el mundo le gusta y todos en casa la hemos
+         <span>
+          preparado alguna vez. Pero existe otra versión de este plato que nos permite incorporar otros alimentos típicos como, por ejemplo, el puerro o los pimientos. Se
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="margin-top-1 publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_roba_1" data-sizes="[[336, 280],[300, 250],[480, 320]]" id="div-gpt-ad-1490621822506-2">
+       </div>
+       <div class="margin-top-1 publibydfp ad mobile breakpoint_1 breakpoint_1-5" data-client="27212193" data-dfp="ltm_mobile_roba_1" data-sizes="[[336, 280],[300, 250]]" id="div-gpt-ad-1490621822506-6">
+       </div>
+       <div class="resultado link" data-id="76644" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/4/6/tamagoyaki_o_tortilla_japonesa_enrollada_76644_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/4/4/6/tamagoyaki_o_tortilla_japonesa_enrollada_76644_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/4/6/tamagoyaki_o_tortilla_japonesa_enrollada_76644_300_square.jpg" width="300"/>
+          <img alt="Receta de Tamagoyaki o tortilla japonesa enrollada" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/4/4/6/tamagoyaki_o_tortilla_japonesa_enrollada_76644_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--1">
+           Dificultad muy baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tamagoyaki-o-tortilla-japonesa-enrollada-76644.html">
+         Receta de Tamagoyaki o tortilla japonesa enrollada
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad muy baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+        </div>
+        <div class="intro">
+         Tamagoyaki es un tipo de tortilla japonesa salada hecha a base de huevos batidos sazonados con dashi, salsa de soja y azúcar, cocidos de cierta
+         <span>
+          forma que quedan como un rollo con capas finas. Si separamos la palabra tamagoyaki, “tamago” en japonés significa huevo y “yaki” significa salteado o asado.
+En
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="76510" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/0/1/5/tortilla_de_patatas_en_freidora_de_aire_76510_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/0/1/5/tortilla_de_patatas_en_freidora_de_aire_76510_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/0/1/5/tortilla_de_patatas_en_freidora_de_aire_76510_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de patatas en freidora de aire" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/0/1/5/tortilla_de_patatas_en_freidora_de_aire_76510_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-patatas-en-freidora-de-aire-76510.html">
+         Receta de Tortilla de patatas en freidora de aire
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+        </div>
+        <div class="intro">
+         ¿A quién no le gusta una buena tortilla de patatas? Pues bien, si la cocinamos más saludable mejor todavía. Por ello, puedes elaborar una rica
+         <span>
+          tortilla de patatas en freidora de aire sin aceite y más ligera que la tradicional que se hace con bastante cantidad de aceite. Asimismo, las freidoras de aire
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="76325" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/2/3/tortilla_de_boniato_76325_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/2/3/tortilla_de_boniato_76325_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/2/3/tortilla_de_boniato_76325_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de boniato" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/2/3/tortilla_de_boniato_76325_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-boniato-76325.html">
+         Receta de Tortilla de boniato
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de boniato consiste en una elaboración diferente, saludable y con un sabor suave. Además, aunque incorpora boniato, también se puede
+         <span>
+          añadir un poco de cebolla y elaborar una exquisita tortilla de boniato y cebolla. Asimismo, solo debes freír un trozo de cebolla bien picadita junto con el boniato.
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="76243" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/4/2/tortilla_de_alcachofas_de_bote_76243_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/3/4/2/tortilla_de_alcachofas_de_bote_76243_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/4/2/tortilla_de_alcachofas_de_bote_76243_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de alcachofas de bote" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/3/4/2/tortilla_de_alcachofas_de_bote_76243_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-alcachofas-de-bote-76243.html">
+         Receta de Tortilla de alcachofas de bote
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          1
+         </span>
+         <span class="property duracion">
+          10m
+         </span>
+        </div>
+        <div class="intro">
+         Vamos a preparar una tortilla de alcachofas de bote, una elaboración rica, sencilla y rápida de hacer. Ideal para los días con poco tiempo o
+         <span>
+          para una cena imprevista. Debes saber que las alcachofas de bote son muy buenas y ligeras, solo están cocidas. Asimismo, las puedes encontrar con el agua de conserva
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="76309" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/0/3/tortilla_de_calabaza_y_cebolla_76309_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/9/0/3/tortilla_de_calabaza_y_cebolla_76309_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/0/3/tortilla_de_calabaza_y_cebolla_76309_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de calabaza y cebolla" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/9/0/3/tortilla_de_calabaza_y_cebolla_76309_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-calabaza-y-cebolla-76309.html">
+         Receta de Tortilla de calabaza y cebolla
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de calabaza y cebolla es un plato muy jugoso y con mucho sabor. Esta elaboración se prepara igual que la tortilla tradicional, solo
+         <span>
+          debes cocer la calabaza antes, en este caso, se puede decir que sustituyes la patata por la calabaza. Una tortilla rica, saludable y rápida de preparar, mucho más
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="margin-top-1 publibyinfeed ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id="div-infeed-ad-4301947442">
+        <ins data-ad-client="ca-pub-0219857468287125" data-ad-format="fluid" data-ad-layout-key="-eh+l+3z-mf+pg" data-ad-slot="4301947442" style="display:block;">
+        </ins>
+       </div>
+       <script type="text/javascript">
+        var divInfeed = document.getElementById('div-infeed-ad-4301947442');
+if (divInfeed.offsetParent !== null) {
+divInfeed.getElementsByTagName("ins")[0].className = 'adsbygoogle';
+(adsbygoogle = window.adsbygoogle || []).push({});
+}
+       </script>
+       <div class="margin-top-1 publibyinfeed ad mobile breakpoint_1 breakpoint_1-5" id="div-infeed-ad-2492658862">
+        <ins data-ad-client="ca-pub-0219857468287125" data-ad-format="fluid" data-ad-layout-key="-7b+cx-f+l+c4" data-ad-slot="2492658862" style="display:block;">
+        </ins>
+       </div>
+       <script type="text/javascript">
+        var divInfeed = document.getElementById('div-infeed-ad-2492658862');
+if (divInfeed.offsetParent !== null) {
+divInfeed.getElementsByTagName("ins")[0].className = 'adsbygoogle';
+(adsbygoogle = window.adsbygoogle || []).push({});
+}
+       </script>
+       <div class="resultado link" data-id="75805" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/0/8/tortilla_de_macarrones_75805_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/0/8/tortilla_de_macarrones_75805_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/0/8/tortilla_de_macarrones_75805_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de macarrones" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/0/8/tortilla_de_macarrones_75805_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-macarrones-75805.html">
+         Receta de Tortilla de macarrones
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         Hoy en día existen muchas formas de hacer tortillas, ya que son muchos los ingredientes que combinan a la perfección con este formato. Además,
+         <span>
+          las tortillas también son perfectas para el reciclaje, como en esta ocasión. Te presentamos una tortilla que fue pensada para reutilizar los macarrones cocidos
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="75679" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/7/6/tortilla_de_chocolate_75679_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/9/7/6/tortilla_de_chocolate_75679_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/7/6/tortilla_de_chocolate_75679_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de chocolate" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/9/7/6/tortilla_de_chocolate_75679_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--1">
+           Dificultad muy baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-chocolate-75679.html">
+         Receta de Tortilla de chocolate
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad muy baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          1
+         </span>
+         <span class="property duracion">
+          10m
+         </span>
+        </div>
+        <div class="intro">
+         Esta tortilla de chocolate es ideal para el desayuno o para la merienda. Una elaboración sencilla de preparar, tierna y jugosa, con un rico
+         <span>
+          sabor a chocolate. Si tienes antojo de chocolate y no sabes qué preparar, esta elaboración será tu solución. ¿Te pensabas que lo habías visto todo? Con este postre
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="75666" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/6/6/tortilla_de_trufa_75666_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/6/6/6/tortilla_de_trufa_75666_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/6/6/tortilla_de_trufa_75666_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de trufa" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/6/6/6/tortilla_de_trufa_75666_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--1">
+           Dificultad muy baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-trufa-75666.html">
+         Receta de Tortilla de trufa
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad muy baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          1
+         </span>
+         <span class="property duracion">
+          10m
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de trufa blanca o negra es una delicia con mucho sabor. Actualmente, se utiliza en la cocina, sobre todo, en restaurantes. Sin embargo,
+         <span>
+          existen trufas más baratas y asequibles que podemos encontrar en las grandes superficies, como por ejemplo: trufas artificiales y trufa en polvo, un ingrediente
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="75665" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/6/6/tortilla_de_croissant_75665_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/6/6/tortilla_de_croissant_75665_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/6/6/tortilla_de_croissant_75665_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de croissant" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/6/6/tortilla_de_croissant_75665_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-croissant-75665.html">
+         Receta de Tortilla de croissant
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de croissant es una deliciosa y original elaboración que puedes preparar para aprovechar los croissants del día anterior o del mismo
+         <span>
+          día, señalamos que estos no deben ser rellenos. La masa del croissant hace de patata, ya que no deja de ser harina, además, se puede añadir cualquier ingrediente,
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="75075" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/7/0/tortilla_de_patatas_espanola_75075_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/7/0/tortilla_de_patatas_espanola_75075_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/7/0/tortilla_de_patatas_espanola_75075_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de patatas española" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/7/0/tortilla_de_patatas_espanola_75075_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 86.60%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-patatas-espanola-75075.html">
+         Receta de Tortilla de patatas española
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 86.60%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de patatas española es una receta tradicional de nuestra gastronomía. La tortilla de papas o patatas es muy sencilla de hacer, pero
+         <span>
+          también tiene sus truquitos para que nos quede perfecta y en RecetasGratis los compartiremos todos. Alrededor de esta receta existe la polémica de si debe llevar
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="74815" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/1/8/tortillas_de_queso_keto_74815_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/1/8/tortillas_de_queso_keto_74815_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/1/8/tortillas_de_queso_keto_74815_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortillas de queso keto" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/1/8/tortillas_de_queso_keto_74815_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--1">
+           Dificultad muy baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortillas-de-queso-keto-74815.html">
+         Receta de Tortillas de queso keto
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad muy baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+         <span class="property para">
+          Acompañamiento
+         </span>
+        </div>
+        <div class="intro">
+         Las tortillas siempre han estado presentes en la cocina mexicana, son la base de muchos platillos y no pueden pasar desapercibidas a la hora
+         <span>
+          de degustar un rico taco. Sin embargo, para algunas dietas como la cetogénica o keto, la tortilla nunca es opción por su alto contenido en carbohidratos.
+En el
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="74484" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/8/4/frittata_de_verduras_74484_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/4/8/4/frittata_de_verduras_74484_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/8/4/frittata_de_verduras_74484_300_square.jpg" width="300"/>
+          <img alt="Receta de Frittata de verduras" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/4/8/4/frittata_de_verduras_74484_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-frittata-de-verduras-74484.html">
+         Receta de Frittata de verduras
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Desayuno
+         </span>
+        </div>
+        <div class="intro">
+         La frittata de verduras es un plato de origen italiano que consiste, básicamente, en una tortilla de huevos y vegetales cocida en el horno.
+         <span>
+          Si buscas un desayuno fácil, rápido y delicioso, la frittata es una excelente opción. Esto se debe a que el plato se prepara justo con los vegetales que tienes
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="74125" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/2/1/okonomiyaki_74125_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/2/1/okonomiyaki_74125_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/2/1/okonomiyaki_74125_300_square.jpg" width="300"/>
+          <img alt="Receta de Okonomiyaki" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/2/1/okonomiyaki_74125_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-okonomiyaki-74125.html">
+         Receta de Okonomiyaki
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+        </div>
+        <div class="intro">
+         ¿Eres fan de la comida japonesa? ¿Te gusta probar cosas nuevas? ¡Estás en el lugar indicado! En esta ocasión, te traemos un plato muy popular
+         <span>
+          y versátil desde la cocina japonesa hasta tu mesa. Se trata de una receta deliciosa que puedes variar y hacer como gustes. Recibe el nombre de okonomiyaki, y es
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="73984" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_verduras_73984_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_verduras_73984_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_verduras_73984_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de verduras" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_verduras_73984_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-verduras-73984.html">
+         Receta de Tortilla de verduras
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          3
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de verduras es una elaboración rica y sencilla. Un plato tradicional de la gastronomía española, fácil y variado que podemos preparar
+         <span>
+          en cualquier momento y con prácticamente cualquier ingrediente, como embutidos, setas, pescados, etc. En esta ocasión vamos a preparar una tortilla de verduras
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="73978" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/7/9/tortilla_de_tagarninas_73978_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/8/7/9/tortilla_de_tagarninas_73978_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/7/9/tortilla_de_tagarninas_73978_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de tagarninas" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/8/7/9/tortilla_de_tagarninas_73978_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-tagarninas-73978.html">
+         Receta de Tortilla de tagarninas
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          10m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         Las tagarninas son una especie de cardos silvestres de ramificaciones pegadas a la tierra, que crecen en Andalucía, especialmente en Cádiz,
+         <span>
+          aunque por suerte se pueden encontrar en algunos campos de zonas de Castilla la Mancha o la Comunidad Valenciana. La temporada de recogida de este alimento suele
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="73962" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/2/6/9/tortilla_de_arroz_frito_japonesa_73962_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/2/6/9/tortilla_de_arroz_frito_japonesa_73962_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/2/6/9/tortilla_de_arroz_frito_japonesa_73962_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de arroz frito japonesa" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/2/6/9/tortilla_de_arroz_frito_japonesa_73962_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-arroz-frito-japonesa-73962.html">
+         Receta de Tortilla de arroz frito japonesa
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+        </div>
+        <div class="intro">
+         Si, cuando piensas en una tortilla, se te viene a la mente la imagen de una típica tortilla francesa, esta preparación te sorprenderá. Hecha
+         <span>
+          con arroz frito, huevos y muchos otros ingredientes, esta tortilla de arroz frito japonesa, también conocida como omurice, es una delicia muy nutritiva, llena de
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="73538" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/3/5/tortilla_de_grelos_con_patatas_y_chorizo_73538_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/8/3/5/tortilla_de_grelos_con_patatas_y_chorizo_73538_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/3/5/tortilla_de_grelos_con_patatas_y_chorizo_73538_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de grelos con patatas y chorizo" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/8/3/5/tortilla_de_grelos_con_patatas_y_chorizo_73538_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 60.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-grelos-con-patatas-y-chorizo-73538.html">
+         Receta de Tortilla de grelos con patatas y chorizo
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 60.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          6
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         El grelo es el brote de hoja que sale del nabo, cuyo sabor y textura hacen que esta hoja sea única y diferente a las demás hortalizas. Si las
+         <span>
+          recoges fuera de temporada sabrán demasiado amargas y tendrán una textura demasiado correosa que no reblandece aún hirviendo durante mucho tiempo, por lo tanto,
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="73326" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/2/3/tortilla_de_avena_73326_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/6/2/3/tortilla_de_avena_73326_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/2/3/tortilla_de_avena_73326_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de avena" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/6/2/3/tortilla_de_avena_73326_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 95.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-avena-73326.html">
+         Receta de Tortilla de avena
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 95.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          1
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         La forma más sencilla de preparar una tortilla de avena es coger la receta básica de tortilla francesa y agregar copos de avena. Sin embargo,
+         <span>
+          si queremos elaborar este plato porque seguimos una dieta fitness, por ejemplo, es importante tener en cuenta ciertas restricciones. Así mismo, es preciso preparar
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="72677" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/7/6/tortilla_de_acelgas_al_horno_72677_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/7/7/6/tortilla_de_acelgas_al_horno_72677_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/7/6/tortilla_de_acelgas_al_horno_72677_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de acelgas al horno" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/7/7/6/tortilla_de_acelgas_al_horno_72677_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-acelgas-al-horno-72677.html">
+         Receta de Tortilla de acelgas al horno
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+        </div>
+        <div class="intro">
+         Tortilla de acelgas al horno, una rica tortilla llena de vitaminas, saludable y ligera, ideal para introducir las verduras a los mas pequeños
+         <span>
+          de la casa. Así mismo, las acelgas son unos vegetales estupendos para las dietas de adelgazamiento, ya que contienen muy pocas calorías y muchos nutrientes, como
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="66085" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/8/0/tortilla_paraguaya_facil_y_rapida_66085_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/8/0/tortilla_paraguaya_facil_y_rapida_66085_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/8/0/tortilla_paraguaya_facil_y_rapida_66085_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla paraguaya fácil y rápida" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/8/0/tortilla_paraguaya_facil_y_rapida_66085_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-paraguaya-facil-y-rapida-66085.html">
+         Receta de Tortilla paraguaya fácil y rápida
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Entrante
+         </span>
+        </div>
+        <div class="intro">
+         Aprende cómo preparar tortilla paraguaya fácil y rápidamente siguiendo las instrucciones de esta receta de tortilla paraguaya casera que te
+         <span>
+          enseñamos en RecetasGratis. Se trata de una tortilla frita paraguaya que lleva zanahoria rallado y el queso que más te guste, lo que hace que esté absolutamente
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="71873" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/7/8/tortilla_de_bacalao_71873_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/3/7/8/tortilla_de_bacalao_71873_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/7/8/tortilla_de_bacalao_71873_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de bacalao" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/3/7/8/tortilla_de_bacalao_71873_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 90.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-bacalao-71873.html">
+         Receta de Tortilla de bacalao
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 90.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Entrante
+         </span>
+        </div>
+        <div class="intro">
+         Esta vez, en RecetasGratis, descubrirás la receta de tortilla de bacalao tradicional estilo de las sidrerías de Euskadi, una riquísima tortilla
+         <span>
+          de bacalao vasca auténtica y tradicional ideal para preparar una cena o como tapa, muy consumida en Semana Santa. Esta tortilla de bacalao fácil y rápida es un
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="71625" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/2/6/tortilla_al_horno_rellena_y_jugosa_71625_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/2/6/tortilla_al_horno_rellena_y_jugosa_71625_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/2/6/tortilla_al_horno_rellena_y_jugosa_71625_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla al horno rellena y jugosa" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/2/6/tortilla_al_horno_rellena_y_jugosa_71625_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-al-horno-rellena-y-jugosa-71625.html">
+         Receta de Tortilla al horno rellena y jugosa
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 80.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         En RecetasGratis te proponemos esta receta de tortilla al horno fácil y rápida como receta de aprovechamiento para conseguir una comida o cena
+         <span>
+          económica utilizando los restos de otros platos que tengas por casa. Se trata de una tortilla al horno rellena y jugosa con queso fresco y pollo asado desmenuzado
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="65511" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/1/1/5/tortilla_de_patatas_rellena_de_jamon_serrano_y_queso_65511_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/1/1/5/tortilla_de_patatas_rellena_de_jamon_serrano_y_queso_65511_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/1/1/5/tortilla_de_patatas_rellena_de_jamon_serrano_y_queso_65511_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de patatas rellena de jamón serrano y queso" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/1/1/5/tortilla_de_patatas_rellena_de_jamon_serrano_y_queso_65511_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-patatas-rellena-de-jamon-serrano-y-queso-65511.html">
+         Receta de Tortilla de patatas rellena de jamón serrano y queso
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          6
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Entrante
+         </span>
+        </div>
+        <div class="intro">
+         La novedad de esta receta de tortillas de patatas rellena de jamón serrano y queso que nos ha compartido nuestro querido Ferchef desde la app
+         <span>
+          de RecetasGratis esta vez es que le ha añadido jamón ibérico y queso Don Apolonio, y como dice, jamón y queso sabe a beso. Toda una explosión de sabor para el paladar.
+         </span>
+        </div>
+       </div>
+       <div class="resultado link" data-id="71166" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/6/1/tortilla_de_berenjena_71166_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/6/6/1/tortilla_de_berenjena_71166_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/6/1/tortilla_de_berenjena_71166_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de berenjena" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/6/6/1/tortilla_de_berenjena_71166_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 84.40%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-berenjena-71166.html">
+         Receta de Tortilla de berenjena
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 84.40%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Entrante
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de berenjena es jugosa, suave y rica. Ideal para una cena o como entrante, una manera de comer verduras que seguro gusta en casa,
+         <span>
+          ya que las tortillas admiten muchísimas variaciones y, sobre todo, quedan muy buenas con verduras. Asimismo, la tortilla de berenjena tiene entre 140 y 180 calorías
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="71020" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/0/2/0/tortilla_de_patatas_y_bacalao_71020_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/0/2/0/tortilla_de_patatas_y_bacalao_71020_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/0/2/0/tortilla_de_patatas_y_bacalao_71020_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de patatas y bacalao" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/0/2/0/tortilla_de_patatas_y_bacalao_71020_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-patatas-y-bacalao-71020.html">
+         Receta de Tortilla de patatas y bacalao
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         En esta ocasión en RecetasGratis os propongo una tortilla de patatas y bacalao casera, una estupenda tortilla jugosa y rica. Otra manera de
+         <span>
+          comer bacalao ya que esta preparación gusta mucho a la mayoría de gente y admite cualquier ingrediente.
+La tortilla es un plato tradicional que se preparan en
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="69428" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/2/4/tortillas_de_maiz_rellenas_de_jamon_y_queso_69428_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/8/2/4/tortillas_de_maiz_rellenas_de_jamon_y_queso_69428_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/2/4/tortillas_de_maiz_rellenas_de_jamon_y_queso_69428_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortillas de maíz rellenas de jamón y queso" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/8/2/4/tortillas_de_maiz_rellenas_de_jamon_y_queso_69428_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 60.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortillas-de-maiz-rellenas-de-jamon-y-queso-69428.html">
+         Receta de Tortillas de maíz rellenas de jamón y queso
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 60.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         Las tortillas de maíz rellenas de jamón y queso que comparto en RecetasGratis son similares a las quesadillas mexicanas. Las quesadillas son
+         <span>
+          una delicia, puesto que el relleno admite muchas variaciones aunque nunca puede faltar el queso.
+Estas tortitas que muestro son muy fáciles de preparar e ideales
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="69019" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/1/0/tortilla_francesa_con_atun_y_queso_69019_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/9/1/0/tortilla_francesa_con_atun_y_queso_69019_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/1/0/tortilla_francesa_con_atun_y_queso_69019_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla francesa con atún y queso" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/9/1/0/tortilla_francesa_con_atun_y_queso_69019_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 86.60%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-francesa-con-atun-y-queso-69019.html">
+         Receta de Tortilla francesa con atún y queso
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 86.60%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          10m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         En esta ocasión vamos a preparar una tortilla francesa con atún y queso. Aunque sus ingredientes son simples y su preparación sencilla, la tortilla
+         <span>
+          es conocida en todos los rincones del mundo por su deliciosos sabor, y no siempre es fácil conseguir una forma perfecta. Solo con huevos se puede preparar este
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="68887" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/8/8/tortitas_de_patata_cocida_68887_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/7/8/8/tortitas_de_patata_cocida_68887_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/8/8/tortitas_de_patata_cocida_68887_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortitas de patata cocida" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/7/8/8/tortitas_de_patata_cocida_68887_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 73.40%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--3">
+           Dificultad media
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortitas-de-patata-cocida-68887.html">
+         Receta de Tortitas de patata cocida
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 73.40%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad media
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          6
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Acompañamiento
+         </span>
+        </div>
+        <div class="intro">
+         Las tortillas de trigo o de maíz, también llamadas las tortillas mexicanas, se utilizan mucho en la cocina para crear múltiples platos rápidos
+         <span>
+          y fáciles. Muchas de las tortillas o tortitas industriales llevan conservantes y otros ingredientes adicionales que no son demasiado saludables, pero hay una forma
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="67768" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/6/7/tortilla_de_pescado_al_horno_67768_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/8/6/7/tortilla_de_pescado_al_horno_67768_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/6/7/tortilla_de_pescado_al_horno_67768_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de pescado al horno" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/8/6/7/tortilla_de_pescado_al_horno_67768_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-pescado-al-horno-67768.html">
+         Receta de Tortilla de pescado al horno
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          3
+         </span>
+         <span class="property duracion">
+          1h 30m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         Un ingrediente tradicional de la gastronomía durante la Semana Santa es el pescado en todas sus presentaciones. Existen muchas formas de preparar
+         <span>
+          esta saludable carne, sin embargo existe una receta en especial que por su sencillez y sabor es la preferida de muchas personas en diferentes lugares del mundo:
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="68362" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/2/6/3/tortilla_de_alcachofas_68362_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/2/6/3/tortilla_de_alcachofas_68362_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/2/6/3/tortilla_de_alcachofas_68362_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de alcachofas" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/2/6/3/tortilla_de_alcachofas_68362_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-alcachofas-68362.html">
+         Receta de Tortilla de alcachofas
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         ¡Vamos con una tortilla de alcachofas! Ahora están en su mejor momento, así que hay que aprovechar para elaborar recetas como esta. Asimismo,
+         <span>
+          preparadas en tortilla las alcachofas son ideales, ya que quedan ricas y jugosas. Sin duda, se trata de un plato ideal para una cena, ya que es una elaboración
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="68130" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/0/3/1/tortilla_de_calabacin_y_puerro_68130_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/0/3/1/tortilla_de_calabacin_y_puerro_68130_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/0/3/1/tortilla_de_calabacin_y_puerro_68130_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de calabacín y puerro" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/0/3/1/tortilla_de_calabacin_y_puerro_68130_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-calabacin-y-puerro-68130.html">
+         Receta de Tortilla de calabacín y puerro
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Entrante
+         </span>
+        </div>
+        <div class="intro">
+         Esta vez comparto con RecetasGratis un clásico, una tortilla de calabacín y puerro riquísima. Las tortillas caseras son una buena cena express
+         <span>
+          porque son rápidas, sencillas y podemos hacerlas con muchísimos ingredientes y muy variadas.
+En esta ocasión he preparado una tortillas de puerros y calabacín
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="42493" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/9/4/tortilla_de_yuca_frita_42493_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/3/9/4/tortilla_de_yuca_frita_42493_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/9/4/tortilla_de_yuca_frita_42493_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de yuca frita" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/3/9/4/tortilla_de_yuca_frita_42493_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 70.60%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-yuca-frita-42493.html">
+         Receta de Tortilla de yuca frita
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 70.60%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          8
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla de yuca podría ser un producto del mestizaje culinario o de la cocina fusión contemporánea. En cualquier caso, es producto de un
+         <span>
+          constante ir y venir de elementos culinarios entre continentes.
+La tortilla de yuca ecuatoriana se asemeja mucho a la tradicional tortilla española de papa en
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="66976" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/7/9/tortillas_rellenas_de_carne_molida_66976_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/6/7/9/tortillas_rellenas_de_carne_molida_66976_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/6/7/9/tortillas_rellenas_de_carne_molida_66976_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortillas rellenas de carne molida" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/6/7/9/tortillas_rellenas_de_carne_molida_66976_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortillas-rellenas-de-carne-molida-66976.html">
+         Receta de Tortillas rellenas de carne molida
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         En esta ocasión os traigo para RecetasGratis unos rollitos de carne con tortillas de harina, más conocidos como burritos de carne molida o picada
+         <span>
+          mixta. Preparar estas tortillas rellenas de carne molida en casa puede ser divertido ya que los podemos preparar con muchos ingredientes diferentes pero en casa
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="65817" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/1/8/panqueques_de_avena_sin_huevo_65817_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/7/1/8/panqueques_de_avena_sin_huevo_65817_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/7/1/8/panqueques_de_avena_sin_huevo_65817_300_square.jpg" width="300"/>
+          <img alt="Receta de Panqueques de avena sin huevo" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/7/1/8/panqueques_de_avena_sin_huevo_65817_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 93.40%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-panqueques-de-avena-sin-huevo-65817.html">
+         Receta de Panqueques de avena sin huevo
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 93.40%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Desayuno
+         </span>
+        </div>
+        <div class="intro">
+         Las tortitas de avena son el desayuno ideal para los deportistas que quieren empezar el día con energía saludable, ya que nos aportan hidratos
+         <span>
+          de carbono y casi nada de grasa. Estos panqueques sin huevos cuentan con menos calorías que las tortitas caseras tradicionales y mantienen todo el sabor de unos
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="65642" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/2/4/6/tortilla_de_esparragos_verdes_frescos_65642_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/2/4/6/tortilla_de_esparragos_verdes_frescos_65642_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/2/4/6/tortilla_de_esparragos_verdes_frescos_65642_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de espárragos verdes frescos" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/2/4/6/tortilla_de_esparragos_verdes_frescos_65642_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-esparragos-verdes-frescos-65642.html">
+         Receta de Tortilla de espárragos verdes frescos
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         Si buscas recetas para una cena ligera y saludable, ¡estas de suerte! Toma nota de la receta de tortilla de espárragos verdes frescos que te
+         <span>
+          presentamos en RecetasGratis. Hemos preparado una tortilla de espárragos con un poquito de cebolleta. El plato puede parecer sencillo, pero tiene un sabor espectacular,
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="64984" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_espinacas_con_bechamel_64984_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_espinacas_con_bechamel_64984_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_espinacas_con_bechamel_64984_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de espinacas con bechamel" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/4/8/9/tortilla_de_espinacas_con_bechamel_64984_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-espinacas-con-bechamel-64984.html">
+         Receta de Tortilla de espinacas con bechamel
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         Échale un vistazo a esta deliciosa receta de tortilla de espinacas con bechamel y queso rallado tan sencilla y rápida de hacer que Juditer ha
+         <span>
+          compartido con RecetasGratis desde la app. Te aseguro que es un plato súper sabroso que se elabora en tan solo media hora y con muy pocos ingredientes... ¿te animas?
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="64605" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/0/6/tortilla_de_papas_con_huevo_de_avestruz_64605_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/0/6/tortilla_de_papas_con_huevo_de_avestruz_64605_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/5/0/6/tortilla_de_papas_con_huevo_de_avestruz_64605_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de papas con huevo de avestruz" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/0/6/tortilla_de_papas_con_huevo_de_avestruz_64605_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--3">
+           Dificultad media
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-papas-con-huevo-de-avestruz-64605.html">
+         Receta de Tortilla de papas con huevo de avestruz
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad media
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          8
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         Si no sabes cómo hacer tortilla con huevo de avestruz no te pierdas esta receta que Rocisilva nos ha traído desde la app de RecetasGratis. Se
+         <span>
+          trata de una tortilla de papas con huevo de avestruz o ñandú (avestruz americana) echa paso a paso con cebolla, varias especias y hierba aromáticas. ¿Te animas
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="64368" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/6/3/tortilla_de_espinacas_y_queso_de_cabra_64368_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/8/6/3/tortilla_de_espinacas_y_queso_de_cabra_64368_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/8/6/3/tortilla_de_espinacas_y_queso_de_cabra_64368_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de espinacas y queso de cabra" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/8/6/3/tortilla_de_espinacas_y_queso_de_cabra_64368_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-espinacas-y-queso-de-cabra-64368.html">
+         Receta de Tortilla de espinacas y queso de cabra
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         ¡EMPEZAMOS! Sigue esta receta que Adri7-29 nos ha enviado a la app de RecetasGratis y consigue una deliciosa tortilla de espinacas y queso de
+         <span>
+          cabra derretido súper sabrosa y rápida de hacer, porque en menos de 30 minutos la puedes elaborar sin problemas y servirla como entrante, aperitivo o incluso, plato
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="64174" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/7/1/tortilla_de_rebozuelos_o_rossinyols_64174_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/4/7/1/tortilla_de_rebozuelos_o_rossinyols_64174_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/4/7/1/tortilla_de_rebozuelos_o_rossinyols_64174_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de rebozuelos (o rossinyols)" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/4/7/1/tortilla_de_rebozuelos_o_rossinyols_64174_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-rebozuelos-o-rossinyols-64174.html">
+         Receta de Tortilla de rebozuelos (o rossinyols)
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          10m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         En RecetasGratis te proponemos una deliciosa forma de cocinar con rebozuelos (o rossinyols como se llaman en catalán) y es haciendo una tortilla
+         <span>
+          súper fácil y rápida que Ridaura, una usuaria de la app de RecetasGratis, ha compartido. Esta tortilla de rebozuelos es muy sencilla y rápida de hacer porque tan
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="62571" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/1/7/5/tortilla_de_patata_y_cebolla_para_4_personas_62571_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/1/7/5/tortilla_de_patata_y_cebolla_para_4_personas_62571_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/1/7/5/tortilla_de_patata_y_cebolla_para_4_personas_62571_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de patata y cebolla para 4 personas" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/1/7/5/tortilla_de_patata_y_cebolla_para_4_personas_62571_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-patata-y-cebolla-para-4-personas-62571.html">
+         Receta de Tortilla de patata y cebolla para 4 personas
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Plato principal
+         </span>
+        </div>
+        <div class="intro">
+         Receta clásica donde las haya, la tortilla de patatas ha sido y será la reina de mil y una reuniones con familia y amigos. Sin entrar en la
+         <span>
+          controversia de si con cebolla o sin ella, en RecetasGratis nos ponemos el delantal y la hacemos con, pero si no te gusta basta con no añadirla, ¡va a quedar igualmente
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="63269" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/6/2/tortilla_de_patatas_con_cebolla_y_chorizo_63269_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/9/6/2/tortilla_de_patatas_con_cebolla_y_chorizo_63269_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/6/2/tortilla_de_patatas_con_cebolla_y_chorizo_63269_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de patatas con cebolla y chorizo" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/9/6/2/tortilla_de_patatas_con_cebolla_y_chorizo_63269_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 85.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-patatas-con-cebolla-y-chorizo-63269.html">
+         Receta de Tortilla de patatas con cebolla y chorizo
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 85.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          6
+         </span>
+         <span class="property duracion">
+          30m
+         </span>
+        </div>
+        <div class="intro">
+         A continuación, te explicamos paso a paso cómo hacer uno de los platos nacionales de España, la tortilla de patatas pero con chorizo y cebolla.
+         <span>
+          Verás que te queda un tortilla un poco más naranja que la tortilla de patatas tradicional, si quieres hacer la tortilla de chorizo sin cebolla aquí tienes la receta.
+No
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="63249" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/4/2/omelette_con_espinaca_y_champinones_63249_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/9/4/2/omelette_con_espinaca_y_champinones_63249_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/4/2/omelette_con_espinaca_y_champinones_63249_300_square.jpg" width="300"/>
+          <img alt="Receta de Omelette con espinaca y champiñones" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/9/4/2/omelette_con_espinaca_y_champinones_63249_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-omelette-con-espinaca-y-champinones-63249.html">
+         Receta de Omelette con espinaca y champiñones
+        </a>
+        <div class="info_snippet">
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          2
+         </span>
+         <span class="property duracion">
+          10m
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla o omellete es el plato más típico para cenar, rápido, rico y muy fácil de combinar con cualquier ingrediente que tengas en la nevera.
+         <span>
+          En este caso te vamos a enseñar como hacer una omelette de espinacas y champiñones.
+         </span>
+        </div>
+       </div>
+       <div class="resultado link" data-id="63021" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/1/2/0/tortilla_de_calabacin_con_queso_63021_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/1/2/0/tortilla_de_calabacin_con_queso_63021_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/1/2/0/tortilla_de_calabacin_con_queso_63021_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de calabacín con queso" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/1/2/0/tortilla_de_calabacin_con_queso_63021_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-calabacin-con-queso-63021.html">
+         Receta de Tortilla de calabacín con queso
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          3
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+        </div>
+        <div class="intro">
+         Las tortillas resultan una excelente alternativa para la hora del desayuno o cena. Incluso, pueden salvar algún almuerzo combinadas con arroz.
+         <span>
+          Aunque durante la cena, se recomienda consumirlas con prudencia. En el desayuno, una tortilla puede servir de relleno para arepas o pan, o consumirse sola. Por
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="62419" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/1/4/tortilla_de_bacalao_y_pimiento_verde_62419_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/9/1/4/tortilla_de_bacalao_y_pimiento_verde_62419_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/9/1/4/tortilla_de_bacalao_y_pimiento_verde_62419_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de bacalao y pimiento verde" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/9/1/4/tortilla_de_bacalao_y_pimiento_verde_62419_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--3">
+           Dificultad media
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-bacalao-y-pimiento-verde-62419.html">
+         Receta de Tortilla de bacalao y pimiento verde
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 100.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad media
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          3
+         </span>
+         <span class="property duracion">
+          15m
+         </span>
+         <span class="property para">
+          Cena
+         </span>
+        </div>
+        <div class="intro">
+         Ya sabéis lo mucho que me gustan las tortillas, en casa las tomamos mucho y me apañan muchas cenas. Son rápidas de preparar y muy versátiles,
+         <span>
+          aceptan los ingredientes que sean, todo queda rico.
+Pues bien, esta que os traigo hoy es todo un clásico y de las más ricas que podréis probar nunca y es que pocas
+         </span>
+         ...
+        </div>
+       </div>
+       <div class="resultado link" data-id="62433" data-js-selector="resultado">
+        <div class="position-imagen">
+         <picture>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/3/4/tortilla_de_calabacin_con_jamon_iberico_62433_300_square.webp" type="image/webp" width="300"/>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/3/3/4/tortilla_de_calabacin_con_jamon_iberico_62433_300_150.webp" type="image/webp"/>
+          <source height="150" media="(min-width: 480px)" srcset="https://cdn0.recetasgratis.net/es/posts/3/3/4/tortilla_de_calabacin_con_jamon_iberico_62433_300_square.jpg" width="300"/>
+          <img alt="Receta de Tortilla de calabacín con jamón ibérico" class="imagen" height="300" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/3/3/4/tortilla_de_calabacin_con_jamon_iberico_62433_300_150.jpg" width="300"/>
+         </picture>
+         <div class="info_img">
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 90.00%">
+            </div>
+           </div>
+          </div>
+          <div class="dif dif--2">
+           Dificultad baja
+          </div>
+         </div>
+        </div>
+        <a class="titulo titulo--resultado" href="https://www.recetasgratis.net/receta-de-tortilla-de-calabacin-con-jamon-iberico-62433.html">
+         Receta de Tortilla de calabacín con jamón ibérico
+        </a>
+        <div class="info_snippet">
+         <span>
+          <div class="stars">
+           <div class="total">
+            <div class="valoracion" style="width: 90.00%">
+            </div>
+           </div>
+          </div>
+         </span>
+         <span>
+          Dificultad baja
+         </span>
+        </div>
+        <div class="properties">
+         <span class="property comensales">
+          4
+         </span>
+         <span class="property duracion">
+          45m
+         </span>
+         <span class="property para">
+          Entrante
+         </span>
+        </div>
+        <div class="intro">
+         La tortilla española por excelencia es la famosa tortilla de patatas, pero se pueden hacer tortillas de patatas con todo tipo de extras, de
+         <span>
+          hecho existe una gran discusión sobre si la original lleva o no cebolla, pero aparte de esto, podemos hacer tortilla de patatas con chorizo, o incluso tortilla
+         </span>
+         ...
+        </div>
+       </div>
+----------------------------------------------------
+       <div class="margin-bottom-0_5 publibyafs ad breakpoint_3 breakpoint_4" data-client="partner-pub-0219857468287125" data-number="2" data-styleid="2666678477" data-type="1" id="div-afs-ad-afs_desktop_bottom">
+       </div>
+----------------------------------------------------
+       <div class="ad--inlinesearch margin-bottom-0_5 publibyafs ad mobile breakpoint_1 breakpoint_1-5 breakpoint_2 breakpoint_2-5" data-client="partner-pub-0219857468287125" data-number="2" data-styleid="2666678477" data-type="1" id="div-afs-ad-afs_mobile_bottom">
+       </div>
+      </div>
+     </div>
+     <div class="paginator_wrap">
+      <div class="paginator">
+       <span class="current">
+        1
+       </span>
+       <a href="https://www.recetasgratis.net/Tortilla-busqCate-2.html">
+        2
+       </a>
+       <a href="https://www.recetasgratis.net/Tortilla-busqCate-3.html">
+        3
+       </a>
+       <a class="next" href="https://www.recetasgratis.net/Tortilla-busqCate-2.html">
+        &gt;
+       </a>
+      </div>
+     </div>
+    </section>
+    <aside>
+     <div class="filtros" data-js-selector="toggle_filtros">
+      <div class="cerrar" onclick="$('[data-js-selector=\'toggle_filtros\']').toggleClass('active');">
+      </div>
+      <svg fill="none" height="35px" viewbox="0 0 24 24" width="35px">
+       <path d="M21 6H19M21 12H16M21 18H16M7 20V13.5612C7 13.3532 7 13.2492 6.97958 13.1497C6.96147 13.0615 6.93151 12.9761 6.89052 12.8958C6.84431 12.8054 6.77934 12.7242 6.64939 12.5617L3.35061 8.43826C3.22066 8.27583 3.15569 8.19461 3.10948 8.10417C3.06849 8.02393 3.03853 7.93852 3.02042 7.85026C3 7.75078 3 7.64677 3 7.43875V5.6C3 5.03995 3 4.75992 3.10899 4.54601C3.20487 4.35785 3.35785 4.20487 3.54601 4.10899C3.75992 4 4.03995 4 4.6 4H13.4C13.9601 4 14.2401 4 14.454 4.10899C14.6422 4.20487 14.7951 4.35785 14.891 4.54601C15 4.75992 15 5.03995 15 5.6V7.43875C15 7.64677 15 7.75078 14.9796 7.85026C14.9615 7.93852 14.9315 8.02393 14.8905 8.10417C14.8443 8.19461 14.7793 8.27583 14.6494 8.43826L11.3506 12.5617C11.2207 12.7242 11.1557 12.8054 11.1095 12.8958C11.0685 12.9761 11.0385 13.0615 11.0204 13.1497C11 13.2492 11 13.3532 11 13.5612V17L7 20Z" stroke="#000000">
+       </path>
+      </svg>
+      <div class="titulo-grupo active" onclick="$('[data-js-selector=\'difficulty_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Dificultad
+      </div>
+      <div class="grupo active" data-js-selector="difficulty_id">
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="difficulty_id">
+        <span class="name">
+         Muy baja
+        </span>
+        <span class="results">
+         7
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="difficulty_id">
+        <span class="name">
+         Baja
+        </span>
+        <span class="results">
+         104
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="3" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="difficulty_id">
+        <span class="name">
+         Media
+        </span>
+        <span class="results">
+         20
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'meal_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Para
+      </div>
+      <div class="grupo" data-js-selector="meal_id">
+       <div class="filtro" data-id-filtro="3" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="meal_id">
+        <span class="name">
+         Plato principal
+        </span>
+        <span class="results">
+         29
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="meal_id">
+        <span class="name">
+         Entrante
+        </span>
+        <span class="results">
+         22
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="7" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="meal_id">
+        <span class="name">
+         Cena
+        </span>
+        <span class="results">
+         20
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="meal_id">
+        <span class="name">
+         Desayuno
+        </span>
+        <span class="results">
+         20
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="8" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="meal_id">
+        <span class="name">
+         Acompañamiento
+        </span>
+        <span class="results">
+         9
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="4" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="meal_id">
+        <span class="name">
+         Postre
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo active" onclick="$('[data-js-selector=\'cat\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Categoría
+      </div>
+      <div class="grupo active" data-js-selector="cat">
+       <div class="filtro active" data-id-filtro="18" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cat">
+        <span class="name">
+         Huevos y lácteos
+        </span>
+        <span class="results">
+         150
+        </span>
+       </div>
+      </div>
+      <div class="grupo subgrupo-nivel-1 active" data-js-selector="cat">
+       <div class="filtro active" data-id-filtro="1806" data-id-padre="18" data-js-selector="filtro" data-nivel="1" data-nombre-filtro="cat">
+        <span class="name">
+         Tortillas
+        </span>
+        <span class="results">
+         150
+        </span>
+       </div>
+      </div>
+      <div class="grupo subgrupo-nivel-2 active" data-js-selector="cat">
+       <div class="filtro" data-id-filtro="4734" data-id-padre="1806" data-js-selector="filtro" data-nivel="2" data-nombre-filtro="cat">
+        <a href="https://www.recetasgratis.net/Recetas-de-Tortilla-cebolla-categ-4734_1.html">
+         Tortilla de cebolla
+        </a>
+        <span class="results">
+         74
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="6104" data-id-padre="1806" data-js-selector="filtro" data-nivel="2" data-nombre-filtro="cat">
+        <a href="https://www.recetasgratis.net/Recetas-de-Tortillas-de-patatas-categ-6104_1.html">
+         Tortillas de patatas
+        </a>
+        <span class="results">
+         49
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="6108" data-id-padre="1806" data-js-selector="filtro" data-nivel="2" data-nombre-filtro="cat">
+        <a href="https://www.recetasgratis.net/Recetas-de-Tortillas-de-verduras-categ-6108_1.html">
+         Tortillas de verduras
+        </a>
+        <span class="results">
+         43
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="6105" data-id-padre="1806" data-js-selector="filtro" data-nivel="2" data-nombre-filtro="cat">
+        <a href="https://www.recetasgratis.net/Recetas-de-Omelettes-categ-6105_1.html">
+         Omelettes
+        </a>
+        <span class="results">
+         19
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="6109" data-id-padre="1806" data-js-selector="filtro" data-nivel="2" data-nombre-filtro="cat">
+        <a href="https://www.recetasgratis.net/Recetas-de-Tortillas-de-espinacas-categ-6109_1.html">
+         Tortillas de espinacas
+        </a>
+        <span class="results">
+         14
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="6107" data-id-padre="1806" data-js-selector="filtro" data-nivel="2" data-nombre-filtro="cat">
+        <a href="https://www.recetasgratis.net/Recetas-de-Tortillas-mexicanas-categ-6107_1.html">
+         Tortillas mexicanas
+        </a>
+        <span class="results">
+         13
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'duration_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Duración
+      </div>
+      <div class="grupo" data-js-selector="duration_id">
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="duration_id">
+        <span class="name">
+         10m
+        </span>
+        <span class="results">
+         15
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="duration_id">
+        <span class="name">
+         15m
+        </span>
+        <span class="results">
+         22
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="3" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="duration_id">
+        <span class="name">
+         30m
+        </span>
+        <span class="results">
+         54
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="4" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="duration_id">
+        <span class="name">
+         45m
+        </span>
+        <span class="results">
+         36
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="6" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="duration_id">
+        <span class="name">
+         1h 30m
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'properties\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Propiedades
+      </div>
+      <div class="grupo" data-js-selector="properties">
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="prop_nogluten">
+        <span class="name">
+         Sin gluten
+        </span>
+        <span class="results">
+         9
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="prop_nolactose">
+        <span class="name">
+         Sin lactosa
+        </span>
+        <span class="results">
+         3
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="prop_nosugar">
+        <span class="name">
+         Sin azúcar
+        </span>
+        <span class="results">
+         4
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="prop_nosalt">
+        <span class="name">
+         Sin sal
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'diet\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Alimentación
+      </div>
+      <div class="grupo" data-js-selector="diet">
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="diet_vegetarian">
+        <span class="name">
+         Vegetarianos
+        </span>
+        <span class="results">
+         27
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="diet_vegan">
+        <span class="name">
+         Veganos
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="diet_loseweight">
+        <span class="name">
+         Perder peso
+        </span>
+        <span class="results">
+         18
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'destined_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Destinada
+      </div>
+      <div class="grupo" data-js-selector="destined_id">
+       <div class="filtro" data-id-filtro="4" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="destined_id">
+        <span class="name">
+         Deportistas
+        </span>
+        <span class="results">
+         5
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="destined_id">
+        <span class="name">
+         Niños
+        </span>
+        <span class="results">
+         5
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'cooking_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Cocción
+      </div>
+      <div class="grupo" data-js-selector="cooking_id">
+       <div class="filtro" data-id-filtro="6" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cooking_id">
+        <span class="name">
+         Plancha
+        </span>
+        <span class="results">
+         47
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cooking_id">
+        <span class="name">
+         Frito
+        </span>
+        <span class="results">
+         28
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="4" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cooking_id">
+        <span class="name">
+         Al horno
+        </span>
+        <span class="results">
+         14
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="18" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cooking_id">
+        <span class="name">
+         En sartén
+        </span>
+        <span class="results">
+         9
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="10" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cooking_id">
+        <span class="name">
+         Salteado
+        </span>
+        <span class="results">
+         3
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="5" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cooking_id">
+        <span class="name">
+         Al microondas
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cooking_id">
+        <span class="name">
+         Hervido
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'season_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Temporada
+      </div>
+      <div class="grupo" data-js-selector="season_id">
+       <div class="filtro" data-id-filtro="9" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="season_id">
+        <span class="name">
+         Semana Santa
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="4" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="season_id">
+        <span class="name">
+         Otoño-Invierno
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="season_id">
+        <span class="name">
+         Primavera-Verano
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'country_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       País
+      </div>
+      <div class="grupo" data-js-selector="country_id">
+       <div class="filtro" data-id-filtro="32" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         España
+        </span>
+        <span class="results">
+         18
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="42" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         México
+        </span>
+        <span class="results">
+         13
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="64" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         Japón
+        </span>
+        <span class="results">
+         4
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="93" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         Paraguay
+        </span>
+        <span class="results">
+         3
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="13" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         Argentina
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="72" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         Chile
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="58" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         Francia
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="33" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="country_id">
+        <span class="name">
+         Italia
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'region_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Región
+      </div>
+      <div class="grupo" data-js-selector="region_id">
+       <div class="filtro" data-id-filtro="3" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="region_id">
+        <span class="name">
+         Andalucía
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="region_id">
+        <span class="name">
+         Galicia
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="6" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="region_id">
+        <span class="name">
+         País Vasco
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="31" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="region_id">
+        <span class="name">
+         Sinaloa
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'spicy_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Nivel de picante
+      </div>
+      <div class="grupo" data-js-selector="spicy_id">
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="spicy_id">
+        <span class="name">
+         Poco picante
+        </span>
+        <span class="results">
+         4
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="spicy_id">
+        <span class="name">
+         Nada picante
+        </span>
+        <span class="results">
+         3
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo active" onclick="$('[data-js-selector=\'cost_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Coste
+      </div>
+      <div class="grupo active" data-js-selector="cost_id">
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cost_id">
+        <span class="name">
+         Barato
+        </span>
+        <span class="results">
+         114
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="2" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="cost_id">
+        <span class="name">
+         Medio
+        </span>
+        <span class="results">
+         15
+        </span>
+       </div>
+      </div>
+      <div class="titulo-grupo" onclick="$('[data-js-selector=\'drink_id\']').toggleClass('active');$(this).toggleClass('active');setTimeout(function(){ reloadSticky() ;}, 500);">
+       Bebida
+      </div>
+      <div class="grupo" data-js-selector="drink_id">
+       <div class="filtro" data-id-filtro="11" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="drink_id">
+        <span class="name">
+         Zumo natural
+        </span>
+        <span class="results">
+         8
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="9" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="drink_id">
+        <span class="name">
+         Cerveza
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="10" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="drink_id">
+        <span class="name">
+         Refresco
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="5" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="drink_id">
+        <span class="name">
+         Vino tinto
+        </span>
+        <span class="results">
+         2
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="1" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="drink_id">
+        <span class="name">
+         Vino blanco
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+       <div class="filtro" data-id-filtro="4" data-id-padre="-1" data-js-selector="filtro" data-nivel="0" data-nombre-filtro="drink_id">
+        <span class="name">
+         Vino rosado
+        </span>
+        <span class="results">
+         1
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="ad--margin-auto publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_sky_1" data-js-selector="pegajoso" data-sizes="[[160, 600],[300, 600],[300, 250]]" id="div-gpt-ad-1490621822506-5">
+     </div>
+    </aside>
+    <div class="publibydfp ad mobile breakpoint_1 breakpoint_1-5" data-client="27212193" data-dfp="ltm_anchor_bottom" data-js-selector="anchor" data-sizes="[[320, 50],[320, 100]]" id="div-gpt-ad-ltm_anchor_bottom">
+    </div>
+   </main>
+   <a class="back_top" href="#top">
+    Volver arriba ↑
+   </a>
+   <footer>
+    <div class="max_width columnas--1">
+     <div class="columna">
+      <div class="titulo titulo--footer">
+       Redes sociales
+      </div>
+      <div class="social margin-bottom-1">
+       <a class="facebook follow-icon" href="https://www.facebook.com/RecetasGratis" rel="nofollow noopener noreferrer" target="_blank" title="facebook">
+       </a>
+       <a class="twitter follow-icon" href="https://www.twitter.com/recetaGratis" rel="nofollow noopener noreferrer" target="_blank" title="twitter">
+       </a>
+       <a class="instagram follow-icon" href="https://www.instagram.com/RecetasGratis" rel="nofollow noopener noreferrer" target="_blank" title="instagram">
+       </a>
+       <a class="youtube follow-icon" href="https://www.youtube.com/channel/UCmfdrPuxgWiNoU7JpUFlQOQ?sub_confirmation=1" rel="nofollow noopener noreferrer" target="_blank" title="youtube">
+       </a>
+       <a class="pinterest follow-icon" href="https://pinterest.com/recetasg" rel="nofollow noopener noreferrer" target="_blank" title="pinterest">
+       </a>
+       <a class="tiktok follow-icon" href="https://www.tiktok.com/@recetasgratis" rel="nofollow noopener noreferrer" target="_blank" title="tiktok">
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="subfooter">
+     <div class="max_width">
+      <a class="ltm-logo" href="https://www.linktomedia.com" rel="nofollow" target="_blank">
+       <img alt="Link To Media" height="30" loading="lazy" src="https://cdn.recetasgratis.net/img/web/ltm-logo.png" width="58"/>
+      </a>
+      <strong>
+       © recetasgratis.net
+      </strong>
+      <em>
+       2024
+      </em>
+      <a href="https://www.recetasgratis.net/quienes-somos" rel="nofollow">
+       Quiénes somos
+      </a>
+      <a href="https://www.linktomedia.com/#Contacto" rel="nofollow" target="_blank">
+       Contacta con nosotros
+      </a>
+      <a data-js-selector="launch_popup" href="https://www.recetasgratis.net/index/terminosycondiciones" rel="nofollow" target="_blank">
+       Términos y Condiciones
+      </a>
+      <a data-js-selector="launch_popup" href="https://www.recetasgratis.net/index/politicadeprivacidad" rel="nofollow" target="_blank">
+       Política de privacidad
+      </a>
+      <a data-js-selector="launch_popup" href="https://www.recetasgratis.net/index/politicadecookies" rel="nofollow" target="_blank">
+       Política de cookies
+      </a>
+     </div>
+    </div>
+   </footer>
+   <div id="mediaquery">
+   </div>
+  </div>
+  <script async="true" src="https://cdn.recetasgratis.net/js/js_recetasgratis_224.js" type="text/javascript">
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Recetas","item":"https:\/\/www.recetasgratis.net"},{"@type":"ListItem","position":2,"name":"Huevos y l\u00e1cteos","item":"https:\/\/www.recetasgratis.net\/Recetas-de-Huevos-lacteos-listado_receta-18_1.html"}]}
+  </script>
+  <script>
+   (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8e9fb9c9bdeae70a',t:'MTczMjg1MzE5My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
+  </script>
+ </body>
+</html>

@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import photo_view
+from .views import photo
 urlpatterns = [
-    path('photo/', photo_view, name='photo'),
+    path('photo/', photo, name='photo'),
 ]

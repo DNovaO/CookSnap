@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Tortilla de acelga y zanahoria - Receta FÁCIL
+  </title>
+  <meta content="Para hacer la receta de tortilla de acelga y zanahoria necesitarás atado de acelga, zanahoria, cebolla, huevos, etc. ¡Una elaboración saludable muy fácil de preparar!" name="description">
+   <meta content="index,follow,max-image-preview:large" name="robots"/>
+   <link href="https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html" rel="canonical"/>
+   <link href="https://cdn.recetasgratis.net/img/web/recetasgratis/favicon.ico" rel="shortcut icon"/>
+   <meta content="recetasgratis" name="ltm:project"/>
+   <meta content="recetasgratis.net" name="ltm:domain"/>
+   <meta content="es_ES" property="og:locale"/>
+   <meta content="recetasgratis.net" property="og:site_name"/>
+   <meta content="https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html" property="og:url"/>
+   <meta content="@recetaGratis" property="twitter:site"/>
+   <meta content="Tortilla de acelga y zanahoria - Receta FÁCIL" property="og:title"/>
+   <meta content="Para hacer la receta de tortilla de acelga y zanahoria necesitarás atado de acelga, zanahoria, cebolla, huevos, etc. ¡Una elaboración saludable muy fácil de preparar!" property="og:description"/>
+   <meta content="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_orig.jpg" property="og:image"/>
+   <meta content="1200" property="og:image:width"/>
+   <meta content="900" property="og:image:height"/>
+   <meta content="summary_large_image" property="twitter:card"/>
+   <meta content="article" property="og:type"/>
+   <meta content="18" name="idhub"/>
+   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+   <link href="https://cdn.recetasgratis.net/css/css_recetasgratis_142.css" media="all" rel="stylesheet" type="text/css"/>
+   <script>
+    var _0xa072=["\x6D\x65\x74\x61\x5B\x6E\x61\x6D\x65\x3D\x27\x6C\x74\x6D\x3A\x70\x72\x6F\x6A\x65\x63\x74\x27\x5D","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72","\x63\x6F\x6E\x74\x65\x6E\x74","\x69\x6E\x63\x6C\x75\x64\x65\x73","\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x72\x65\x66","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x67\x6F\x6F\x67\x6C\x65\x2E\x63\x6F\x6D"];document[_0xa072[1]](_0xa072[0])&& window[_0xa072[5]][_0xa072[4]][_0xa072[3]](document[_0xa072[1]](_0xa072[0])[_0xa072[2]])|| (window[_0xa072[5]][_0xa072[6]]= _0xa072[7])
+   </script>
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-WRKXZMWBW6">
+   </script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-WRKXZMWBW6');
+   </script>
+   <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js">
+   </script>
+   <script>
+    window.googletag = window.googletag || {cmd: []};
+   </script>
+   <script>
+    googletag.cmd.push(function() {
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setTargeting('ltm-id', '77695').setTargeting('zone', 'post').setTargeting('project', 'recetasgratis').setTargeting('lang', 'es').setTargeting('project-lang', 'recetasgratis-es').setTargeting('amp','0');
+googletag.pubads().disableInitialLoad();
+googletag.enableServices();
+});
+   </script>
+   <script>
+    var prebids = [];
+prebids['ltm_desktop_lb_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_lb_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_lb_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_sky_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_desktop_sky_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_sky_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} }]
+prebids['ltm_desktop_roba_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_desktop_roba_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_desktop_roba_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139414",zoneId:"652356"} }]
+prebids['ltm_mobile_roba_1'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139326",zoneId:"651962"} }]
+prebids['ltm_mobile_roba_2'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139326",zoneId:"651962"} }]
+prebids['ltm_mobile_roba_3'] = [{ bidder: "criteo", params: {networkId:"7068",publisherSubId:"recetasgratis_es"} },{ bidder: "rubicon", params: {accountId:"16598",siteId:"139326",zoneId:"651962"} }]
+   </script>
+   <script async="" src="//cdn.recetasgratis.net/js/library/prebid/prebid_20180601115812.js" type="text/javascript">
+   </script>
+   <script>
+    var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+pbjs.bidderSettings = {
+rubicon: {
+bidCpmAdjustment : function(bidCpm){
+return bidCpm * 0.84;
+}
+}
+};
+   </script>
+   <script>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+var apstag = apstag || {};
+apstag.init({
+pubID: 'a2951e5c-81d1-4de5-8cd6-475a5b9685fc',
+adServer: 'googletag'
+});
+   </script>
+   <script type="text/javascript">
+    window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u, i) {
+if (!document.getElementById(i)) {
+e.async = 1;
+e.src = u;
+e.id = i;
+f.parentNode.insertBefore(e, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/linktomedia-ww-network/loader.js',
+'tb_loader_script');
+if (window.performance && typeof window.performance.mark == 'function') {
+window.performance.mark('tbl_ic');
+}
+   </script>
+  </meta>
+ </head>
+ <body class="ctrl-post action-index">
+  <div class="container" id="top">
+   <header class="header-layout">
+    <nav class="menu" data-js-selector="menu">
+     <div class="cerrar-menu">
+     </div>
+     <div class="wrap-menu max_width clear">
+      <div class="descubre">
+       <div class="table">
+        <div class="centrar">
+         Descubre
+         <svg fill="#ffffff" transform="rotate(90)" viewbox="0 0 330 330">
+          <path d="M250.606,154.389l-150-149.996c-5.857-5.858-15.355-5.858-21.213,0.001 c-5.857,5.858-5.857,15.355,0.001,21.213l139.393,139.39L79.393,304.394c-5.857,5.858-5.857,15.355,0.001,21.213 C82.322,328.536,86.161,330,90,330s7.678-1.464,10.607-4.394l149.999-150.004c2.814-2.813,4.394-6.628,4.394-10.606 C255,161.018,253.42,157.202,250.606,154.389z">
+          </path>
+         </svg>
+        </div>
+       </div>
+      </div>
+      <div class="lista_menu">
+       <div class="clear">
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="1" href="https://www.recetasgratis.net/Recetas-de-Aperitivos-tapas-listado_receta-1_1.html">
+         <div class="hubicon hubicon--menu hubicon--aperitivos-y-tapas">
+         </div>
+         Aperitivos y tapas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="9" href="https://www.recetasgratis.net/Recetas-de-Arroces-cereales-listado_receta-9_1.html">
+         <div class="hubicon hubicon--menu hubicon--arroces-y-cereales">
+         </div>
+         Arroces y cereales
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="11" href="https://www.recetasgratis.net/Recetas-de-Aves-caza-listado_receta-11_1.html">
+         <div class="hubicon hubicon--menu hubicon--aves-y-caza">
+         </div>
+         Aves y caza
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="10" href="https://www.recetasgratis.net/Recetas-de-Carne-listado_receta-10_1.html">
+         <div class="hubicon hubicon--menu hubicon--carne">
+         </div>
+         Carne
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="15" href="https://www.recetasgratis.net/Recetas-de-Cocteles-bebida-listado_receta-15_1.html">
+         <div class="hubicon hubicon--menu hubicon--cocteles-y-bebidas">
+         </div>
+         Cócteles y bebidas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="6146" href="https://www.recetasgratis.net/Recetas-de-Consejos-de-cocina-listado_receta-6146_1.html">
+         <div class="hubicon hubicon--menu hubicon--consejos-de-cocina">
+         </div>
+         Consejos de cocina
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="4" href="https://www.recetasgratis.net/Recetas-de-Ensaladas-listado_receta-4_1.html">
+         <div class="hubicon hubicon--menu hubicon--ensaladas">
+         </div>
+         Ensaladas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="19" href="https://www.recetasgratis.net/Recetas-de-Guisos-Potage-listado_receta-19_1.html">
+         <div class="hubicon hubicon--menu hubicon--guisos-y-potajes">
+         </div>
+         Guisos y Potajes
+        </a>
+        <a class="ga actual" data-category="Header" data-event="Go to hub" data-label="18" href="https://www.recetasgratis.net/Recetas-de-Huevos-lacteos-listado_receta-18_1.html">
+         <div class="hubicon hubicon--menu hubicon--huevos-y-lacteos">
+         </div>
+         Huevos y lácteos
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="8" href="https://www.recetasgratis.net/Recetas-de-Legumbres-listado_receta-8_1.html">
+         <div class="hubicon hubicon--menu hubicon--legumbres">
+         </div>
+         Legumbres
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="13" href="https://www.recetasgratis.net/Recetas-de-Mariscos-listado_receta-13_1.html">
+         <div class="hubicon hubicon--menu hubicon--mariscos">
+         </div>
+         Mariscos
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="16" href="https://www.recetasgratis.net/Recetas-de-Pan-bolleria-listado_receta-16_1.html">
+         <div class="hubicon hubicon--menu hubicon--pan-y-bolleria">
+         </div>
+         Pan y bollería
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="5" href="https://www.recetasgratis.net/Recetas-de-Pasta-listado_receta-5_1.html">
+         <div class="hubicon hubicon--menu hubicon--pasta">
+         </div>
+         Pasta
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="12" href="https://www.recetasgratis.net/Recetas-de-Pescado-listado_receta-12_1.html">
+         <div class="hubicon hubicon--menu hubicon--pescado">
+         </div>
+         Pescado
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="17" href="https://www.recetasgratis.net/Recetas-de-Postres-listado_receta-17_1.html">
+         <div class="hubicon hubicon--menu hubicon--postres">
+         </div>
+         Postres
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="14" href="https://www.recetasgratis.net/Recetas-de-Salsas-guarniciones-listado_receta-14_1.html">
+         <div class="hubicon hubicon--menu hubicon--salsas">
+         </div>
+         Salsas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="6" href="https://www.recetasgratis.net/Recetas-de-Sopa-listado_receta-6_1.html">
+         <div class="hubicon hubicon--menu hubicon--sopas-y-cremas">
+         </div>
+         Sopas y cremas
+        </a>
+        <a class="ga" data-category="Header" data-event="Go to hub" data-label="7" href="https://www.recetasgratis.net/Recetas-de-Verduras-listado_receta-7_1.html">
+         <div class="hubicon hubicon--menu hubicon--verduras">
+         </div>
+         Verduras
+        </a>
+       </div>
+      </div>
+     </div>
+    </nav>
+    <div class="max_width align-center">
+     <span class="hamburguesa" onclick="document.querySelector('.container').classList.toggle('menu-abierto')">
+      <svg viewbox="0 0 139 93">
+       <path d="M -0 7.007 L -0 14.014 69.750 13.757 L 139.500 13.500 139.796 6.750 L 140.091 0 70.046 0 L 0 0 -0 7.007 M 0.328 7.500 C 0.333 11.350, 0.513 12.802, 0.730 10.728 C 0.946 8.653, 0.943 5.503, 0.722 3.728 C 0.501 1.952, 0.324 3.650, 0.328 7.500 M -0 46.520 L -0 54.014 69.750 53.757 L 139.500 53.500 139.788 46 L 140.075 38.500 70.038 38.763 L -0 39.027 -0 46.520 M 0.343 46.500 C 0.346 50.900, 0.522 52.576, 0.733 50.224 C 0.945 47.872, 0.942 44.272, 0.727 42.224 C 0.512 40.176, 0.339 42.100, 0.343 46.500 M -0 86.020 L -0 93.014 69.750 92.757 L 139.500 92.500 139.789 85.500 L 140.078 78.500 70.039 78.763 L -0 79.027 -0 86.020 M 0.336 86 C 0.336 90.125, 0.513 91.813, 0.728 89.750 C 0.944 87.688, 0.944 84.313, 0.728 82.250 C 0.513 80.188, 0.336 81.875, 0.336 86" fill="#fffcfc">
+       </path>
+      </svg>
+     </span>
+     <a class="logo-default" href="https://www.recetasgratis.net">
+      <img alt="Recetas de cocina" class="logo ga" data-category="Header" data-event="go to home" src="https://cdn.recetasgratis.net/img/web/recetasgratis/logo/negativo/es.png"/>
+     </a>
+     <div class="open-compartir" onclick="document.querySelector('.compartir').classList.toggle('active')">
+      <svg viewbox="0 0 44 50">
+       <path d="M 31.161 1.750 C 30.028 2.712, 28.717 5.057, 28.248 6.959 C 27.535 9.847, 26.193 11.146, 20.118 14.830 C 14.744 18.089, 12.549 18.949, 11.721 18.121 C 9.947 16.347, 5.509 16.812, 2.635 19.073 C -1.087 22, -1.087 28, 2.635 30.927 C 5.471 33.158, 9.942 33.658, 11.662 31.938 C 12.412 31.188, 14.940 32.221, 20.252 35.446 C 26.768 39.402, 27.868 40.482, 28.430 43.480 C 30.162 52.710, 44 51.758, 44 42.408 C 44 36.386, 38.536 32.707, 32.999 35 C 30.604 35.993, 29.509 35.639, 23.117 31.808 C 13.553 26.075, 13.624 24.262, 23.651 18.169 C 29.806 14.429, 31.103 13.985, 32.960 14.979 C 37.963 17.656, 44 13.540, 44 7.452 C 44 1.240, 35.964 -2.329, 31.161 1.750" fill="#fffcfc">
+       </path>
+      </svg>
+      COMPARTIR
+     </div>
+     <form action="https://www.recetasgratis.net/busqueda" class="search-form" id="buscador" method="GET" onsubmit="if (document.getElementById('q').value.length &lt; 3) { alert('Con tan poquito no podemos saber lo que quieres, haz una búsqueda más larga.'); document.getElementById('q').focus()}">
+      <fieldset>
+       <input autocomplete="off" class="input text search" data-js-selector="q" id="q" name="q" placeholder="¿Qué estás buscando?"/>
+       <button aria-label="Buscar" class="button search" onclick="if(document.getElementById('q').value == '' || document.getElementById('q').value == document.getElementById('q').getAttribute('data-q')){ document.getElementById('q').focus(); } else { document.getElementById('buscador').submit(); }" type="button">
+        <svg viewbox="0 0 100 100">
+         <path d="M 47.222 1.915 C 26.063 9.754, 14.914 35.454, 24.138 55.126 C 26.776 60.752, 26.776 60.752, 13.388 74.112 C -1.625 89.094, -3.016 92.075, 2.455 97.545 C 7.844 102.935, 10.715 101.599, 25.920 86.631 C 39.500 73.262, 39.500 73.262, 45 75.881 C 58.502 82.310, 77.432 78.695, 88.558 67.561 C 117.955 38.147, 86.076 -12.480, 47.222 1.915 M 52.792 11.347 C 27.033 18.582, 24.360 54.577, 48.752 65.744 C 62.648 72.106, 79.479 66.237, 86.454 52.596 C 97.820 30.373, 76.793 4.606, 52.792 11.347" fill="#fcfcfc" fill-rule="evenodd" stroke="none">
+         </path>
+        </svg>
+        <span>
+         Buscar
+        </span>
+       </button>
+      </fieldset>
+     </form>
+    </div>
+   </header>
+   <main class="main-content">
+    <nav>
+     <ul class="breadcrumb">
+      <li>
+       <a href="https://www.recetasgratis.net">
+        Recetas
+       </a>
+      </li>
+      <li>
+       <a href="https://www.recetasgratis.net/Recetas-de-Huevos-lacteos-listado_receta-18_1.html">
+        Huevos y lácteos
+       </a>
+      </li>
+      <li>
+       <a href="https://www.recetasgratis.net/Tortilla-busqCate-1.html">
+        Tortillas
+       </a>
+      </li>
+      <li>
+       Receta de Tortilla de acelga y zanahoria
+      </li>
+     </ul>
+    </nav>
+    <article class="columna-post">
+     <header class="header-post">
+      <div class="post-categoria">
+       <a class="post-categoria-link" href="https://www.recetasgratis.net/Tortilla-busqCate-1.html">
+        Tortillas
+       </a>
+      </div>
+      <h1 class="titulo titulo--articulo">
+       Receta de Tortilla de acelga y zanahoria
+      </h1>
+      <div class="info_articulo">
+       <div class="daticos">
+        <div class="datico nbsp">
+        </div>
+       </div>
+       <div class="autor">
+        <a class="img_autor" href="https://www.recetasgratis.net/usuarios/593735.html" rel="nofollow">
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/users/5/3/7/img_593735_50_square.webp" type="image/webp"/>
+          <img alt="Micaela Demarchi" height="50" src="https://cdn0.recetasgratis.net/es/users/5/3/7/img_593735_50_square.jpg" width="50"/>
+         </picture>
+        </a>
+        <div class="nombre_autor">
+         Por
+         <a href="https://www.recetasgratis.net/usuarios/593735.html" rel="nofollow">
+          Micaela Demarchi
+         </a>
+         , Nutricionista.
+         <span class="date_publish">
+          22 octubre 2024
+         </span>
+        </div>
+       </div>
+      </div>
+     </header>
+     <div class="intro">
+      <div class="imagen_wrap full-width">
+       <div class="imagen" data-js-selector="imagen" data-posicion="0">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria" fetchpriority="high" height="450" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+      <p>
+       Las tortillas son una forma excelente de utilizar los últimos vegetales disponibles en la heladera, como así también para incorporar aquellos que resultan más difíciles en nuestra alimentación. Es importante llevar una dieta variada con distintos colores para cuidar nuestro organismo en general y nuestra microbiota intestinal en particular.
+      </p>
+      <p>
+       En RecetasGratis te enseñamos
+       <b>
+        cómo hacer tortilla de acelga y zanahoria
+       </b>
+       . ¡A cocinar!
+      </p>
+     </div>
+     <div class="publibydfp ad mobile breakpoint_1" data-client="27212193" data-dfp="ltm_mobile_roba_1" data-sizes="[[336, 280],[300, 250]]" id="div-gpt-ad-1490621822506-6">
+     </div>
+     <div class="publibydfp ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_roba_1" data-sizes="[[336, 280],[300, 250],[480, 320]]" id="div-gpt-ad-1490621822506-2">
+     </div>
+     <div class="recipe-info">
+      <div class="properties">
+       <span class="property comensales">
+        2 comensales
+       </span>
+       <span class="property duracion">
+        45m
+       </span>
+       <span class="property para">
+        Plato principal
+       </span>
+       <span class="property dificultad">
+        Dificultad media
+       </span>
+      </div>
+      <div class="properties inline">
+       <span class="strong">
+        Características adicionales:
+       </span>
+       Coste barato,                                                                                                                 En sartén
+      </div>
+      <h2 class="titulo titulo--h3">
+       Ingredientes para hacer Tortilla de acelga y zanahoria:
+      </h2>
+      <div class="ingredientes">
+       <ul class="padding-left-0 double-column">
+        <li class="ingrediente">
+         <input id="ingrediente-0" type="checkbox"/>
+         <label for="ingrediente-0">
+          ½ atado de acelga
+         </label>
+        </li>
+        <li class="ingrediente">
+         <input id="ingrediente-1" type="checkbox"/>
+         <label for="ingrediente-1">
+          1 zanahoria
+         </label>
+        </li>
+        <li class="ingrediente">
+         <input id="ingrediente-2" type="checkbox"/>
+         <label for="ingrediente-2">
+          1 cebolla chica
+         </label>
+        </li>
+        <li class="ingrediente">
+         <input id="ingrediente-3" type="checkbox"/>
+         <label for="ingrediente-3">
+          3 huevos
+         </label>
+        </li>
+        <li class="ingrediente">
+         <input id="ingrediente-4" type="checkbox"/>
+         <label for="ingrediente-4">
+          1 cucharada postre de ajo en polvo
+         </label>
+        </li>
+        <li class="ingrediente">
+         <input id="ingrediente-5" type="checkbox"/>
+         <label for="ingrediente-5">
+          1 cucharada postre de tomillo
+         </label>
+        </li>
+        <li class="ingrediente">
+         <input id="ingrediente-6" type="checkbox"/>
+         <label for="ingrediente-6">
+          ½ cucharada postre de pimienta
+         </label>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="recomendado-incrustado">
+      <div class="texto">
+       También te puede interesar:
+       <a class="ga" data-category="Post" data-event="related incrustado" href="https://www.recetasgratis.net/receta-de-tortilla-de-zanahoria-56495.html">
+        Tortilla de zanahoria
+       </a>
+      </div>
+     </div>
+     <h2 class="titulo titulo--h3">
+      Cómo hacer Tortilla de acelga y zanahoria:
+     </h2>
+     <div class="apartado" id="anchor_0">
+      <div class="orden">
+       1
+      </div>
+      <p>
+       <strong>
+        Pela y corta la cebolla en juliana
+       </strong>
+       , es decir, al medio de forma transversal y luego en medias rodajas. Saltéala en una sartén a fuego máximo con 1 cucharadita de aceite. Cuando se seque, agrega 1 cucharada de agua y baja el fuego a medio. Repite tantas veces sea necesario para que se
+       <strong>
+        caramelice
+       </strong>
+       .
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="1">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_0_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 1" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_0_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="publibydfp ad mobile breakpoint_1" data-client="27212193" data-dfp="ltm_mobile_roba_2" data-sizes="[[336,280],[300, 250],[300,600]]" id="div-gpt-ad-1490621822506-7">
+     </div>
+     <div class="publibydfp ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_roba_2" data-sizes="[[336, 280],[300, 250],[480, 320]]" id="div-gpt-ad-1490621822506-3">
+     </div>
+     <div class="apartado" id="anchor_1">
+      <div class="orden">
+       2
+      </div>
+      <p>
+       Una vez caramelizada, agrega la
+       <strong>
+        zanahoria pelada y rallada
+       </strong>
+       . Cocina unos minutos para que tome sabor y se ablande. Si es necesario, puedes volver a agregar 1 cucharada de agua o caldo casero.
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="2">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_1_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 2" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_1_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="apartado" id="anchor_2">
+      <div class="orden">
+       3
+      </div>
+      <p>
+       Sube el fuego a máximo y
+       <strong>
+        agrega la acelga limpia y picada
+       </strong>
+       . Saltéala solo unos segundos para que tome sabor, pero no demasiado o largará líquido y será difícil formar tu tortilla
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="3">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_2_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 3" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_2_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="apartado" id="anchor_3">
+      <div class="orden">
+       4
+      </div>
+      <p>
+       <strong>
+        Condimenta
+       </strong>
+       a gusto y reserva el salteado hasta que esté completamente
+       <strong>
+        frío
+       </strong>
+       .
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="4">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_3_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 4" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_3_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="publibydfp ad mobile breakpoint_1" data-client="27212193" data-dfp="ltm_mobile_roba_3" data-sizes="[[336, 280],[300, 250]]" id="div-gpt-ad-1490621822506-8">
+     </div>
+     <div class="publibydfp ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_roba_3" data-sizes="[[336, 280],[300, 250],[480, 320]]" id="div-gpt-ad-1490621822506-4">
+     </div>
+     <div class="apartado" id="anchor_4">
+      <div class="orden">
+       5
+      </div>
+      <p>
+       Cuando el salteado de zanahoria y acelga esté totalmente frío,
+       <strong>
+        agrega tantos huevos sean necesarios
+       </strong>
+       como para unificar la preparación, quedando apenas líquida. En este caso, fueron necesarios 3, pero dependerá del tamaño de cebolla, zanahoria, acelga y huevos utilices.
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="5">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_4_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 5" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_4_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="apartado" id="anchor_5">
+      <div class="orden">
+       6
+      </div>
+      <p>
+       <strong>
+        Calienta una sartén
+       </strong>
+       antiadherente a fuego máximo y
+       <strong>
+        unta su base y bordes
+       </strong>
+       con 1 cucharada de aceite. Una vez que esté bien caliente,
+       <strong>
+        agrega la preparación
+       </strong>
+       de la tortilla de acelga y zanahoria. Baja el fuego a medio y, cada tanto, ayuda a despegar de los bordes y formar tu tortilla con ayuda de una espátula.
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="6">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_5_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 6" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_5_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="apartado" id="anchor_6">
+      <div class="orden">
+       7
+      </div>
+      <p>
+       Cuando el huevo esté coagulado,
+       <strong>
+        ayúdate con un plato
+       </strong>
+       también untado en aceite para
+       <strong>
+        girar
+       </strong>
+       la tortilla y cocinarla del otro lado. Renueva el aceite en la sartén y sube el fuego a máximo antes de agregarla allí nuevamente.
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="7">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_6_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 7" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_6_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="apartado" id="anchor_7">
+      <div class="orden">
+       8
+      </div>
+      <p>
+       <strong>
+        Cocina
+       </strong>
+       <strong>
+        del otro lado
+       </strong>
+       la tortilla por unos 10 minutos más hasta que esté igualmente dorada.
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="8">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_7_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 8" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_7_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="apartado" id="anchor_8">
+      <div class="orden">
+       9
+      </div>
+      <p>
+       Cuidadosamente sirve y disfruta de tu tortilla de acelga y zanahoria.
+       <b>
+        ¡A comer!
+       </b>
+       Cuéntanos si la pruebas y comparte la fotografía del resultado final.
+      </p>
+      <div class="imagen_wrap">
+       <div class="imagen lupa" data-js-selector="imagen" data-posicion="9">
+        <picture>
+         <source srcset="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_8_600.webp" type="image/webp"/>
+         <img alt="Receta de Tortilla de acelga y zanahoria - Paso 9" height="450" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_8_600.jpg" width="600"/>
+        </picture>
+       </div>
+      </div>
+     </div>
+     <div class="apartado">
+      <p>
+       Si te ha gustado la receta de
+       <strong>
+        Tortilla de acelga y zanahoria
+       </strong>
+       , te sugerimos que entres en nuestra categoría de
+       <a class="ga" data-category="Post" data-event="categoria ultimo paso" href="https://www.recetasgratis.net/Tortilla-busqCate-1.html">
+        Recetas de Tortillas
+       </a>
+       .
+      </p>
+     </div>
+     <div class="publibytaboola ad" id="taboola-below-article-thumbnails">
+     </div>
+     <script type="text/javascript">
+      window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'alternating-thumbnails-a',
+container: 'taboola-below-article-thumbnails',
+placement: 'Below Article Thumbnails',
+target_type: 'mix'
+});
+     </script>
+     <div class="publibyadman ad mobile breakpoint_1 breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-slot="2925" id="div-adman-ad-2925">
+     </div>
+    </article>
+    <aside>
+     <div class="relacionados" data-js-selector="related-aside">
+      <div class="bloquegroup clear padding-left-1">
+       <div class="bloque link">
+        <div class="position-imagen">
+         <div class="stars">
+          <div class="total">
+           <div class="valoracion" style="width: 80.00%">
+           </div>
+          </div>
+         </div>
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/7/7/6/tortilla_de_acelgas_al_horno_72677_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de acelgas al horno" class="imagen" data-pin-nopin="true" height="150" src="https://cdn0.recetasgratis.net/es/posts/7/7/6/tortilla_de_acelgas_al_horno_72677_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-acelgas-al-horno-72677.html">
+         Tortilla de acelgas al horno
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <div class="stars">
+          <div class="total">
+           <div class="valoracion" style="width: 93.40%">
+           </div>
+          </div>
+         </div>
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/3/8/9/tortilla_de_acelgas_con_atun_57983_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de acelgas con atún" class="imagen" data-pin-nopin="true" height="150" src="https://cdn0.recetasgratis.net/es/posts/3/8/9/tortilla_de_acelgas_con_atun_57983_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-acelgas-con-atun-57983.html">
+         Tortilla de acelgas con atún
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <div class="stars">
+          <div class="total">
+           <div class="valoracion" style="width: 80.00%">
+           </div>
+          </div>
+         </div>
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/2/0/6/tortilla_de_acelgas_con_queso_9602_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de acelgas con queso" class="imagen" data-pin-nopin="true" height="150" src="https://cdn0.recetasgratis.net/es/posts/2/0/6/tortilla_de_acelgas_con_queso_9602_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-acelgas-con-queso-9602.html">
+         Tortilla de acelgas con queso
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/7/0/3/tortilla_de_espinaca_y_zanahoria_77307_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de espinaca y zanahoria" class="imagen" data-pin-nopin="true" height="150" src="https://cdn0.recetasgratis.net/es/posts/7/0/3/tortilla_de_espinaca_y_zanahoria_77307_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-espinaca-y-zanahoria-77307.html">
+         Tortilla de espinaca y zanahoria
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="tags align-center" data-js-selector="tags">
+      <div class="titulo titulo--linea">
+       <div class="pastilla">
+        Categorías relacionadas
+       </div>
+      </div>
+      <a class="tag" href="https://www.recetasgratis.net/Recetas-de-Tortillas-de-espinacas-categ-6109_1.html">
+       Tortillas de espinacas
+      </a>
+      <a class="tag" href="https://www.recetasgratis.net/Recetas-de-Tortilla-cebolla-categ-4734_1.html">
+       Tortilla de cebolla
+      </a>
+      <a class="tag" href="https://www.recetasgratis.net/Recetas-de-Tortillas-mexicanas-categ-6107_1.html">
+       Tortillas mexicanas
+      </a>
+      <a class="tag" href="https://www.recetasgratis.net/Recetas-de-Tortillas-de-verduras-categ-6108_1.html">
+       Tortillas de verduras
+      </a>
+      <a class="tag" href="https://www.recetasgratis.net/Recetas-de-Omelettes-categ-6105_1.html">
+       Omelettes
+      </a>
+      <a class="tag" href="https://www.recetasgratis.net/Recetas-de-Tortillas-de-patatas-categ-6104_1.html">
+       Tortillas de patatas
+      </a>
+     </div>
+     <div class="tags" data-js-selector="top-views">
+      <div class="titulo titulo--linea">
+       <div class="pastilla">
+        Lo más visto
+       </div>
+      </div>
+      <div class="topview">
+       <div>
+        1.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-panqueques-super-faciles-de-hacer-51470.html">
+        Panqueques súper fáciles de hacer
+       </a>
+      </div>
+      <div class="topview">
+       <div>
+        2.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-pancakes-de-avena-52579.html">
+        Pancakes de avena
+       </a>
+      </div>
+      <div class="topview">
+       <div>
+        3.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-huevos-a-la-copa-74348.html">
+        Huevos a la copa
+       </a>
+      </div>
+      <div class="topview">
+       <div>
+        4.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-panquecas-de-avena-y-banana-59202.html">
+        Panquecas de avena y banana
+       </a>
+      </div>
+      <div class="topview">
+       <div>
+        5.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-panquecas-34190.html">
+        Panquecas
+       </a>
+      </div>
+      <div class="topview">
+       <div>
+        6.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-tortillas-de-harina-22555.html">
+        Tortillas de harina
+       </a>
+      </div>
+      <div class="topview">
+       <div>
+        7.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-panqueques-de-platano-55504.html">
+        Panqueques de plátano
+       </a>
+      </div>
+      <div class="topview">
+       <div>
+        8.
+       </div>
+       <a href="https://www.recetasgratis.net/receta-de-panqueques-con-manjar-8341.html">
+        Panqueques con manjar
+       </a>
+      </div>
+     </div>
+     <div class="publibydfp ad mobile breakpoint_1 breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_promoted" data-js-selector="promoted" data-sizes="[[300, 150],[160, 80]]" id="div-gpt-ad-ltm_desktop_promoted">
+     </div>
+     <div class="publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_sky_1" data-js-selector="pegajoso" data-sizes="[[160, 600],[300, 600],[300, 250]]" id="div-gpt-ad-1490621822506-5">
+     </div>
+    </aside>
+    <div class="columna-post">
+     <div class="relacionados bottom" data-js-selector="related-bottom">
+      <div class="bloquegroup clear padding-left-1">
+       <div class="bloque link">
+        <div class="position-imagen">
+         <div class="stars">
+          <div class="total">
+           <div class="valoracion" style="width: 73.40%">
+           </div>
+          </div>
+         </div>
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/3/0/7/tortilla_de_brotes_de_soja_28703_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de brotes de soja" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/3/0/7/tortilla_de_brotes_de_soja_28703_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-brotes-de-soja-28703.html">
+         Tortilla de brotes de soja
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <div class="stars">
+          <div class="total">
+           <div class="valoracion" style="width: 80.00%">
+           </div>
+          </div>
+         </div>
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/8/0/tortilla_paraguaya_facil_y_rapida_66085_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla paraguaya fácil y rápida" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/8/0/tortilla_paraguaya_facil_y_rapida_66085_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-paraguaya-facil-y-rapida-66085.html">
+         Tortilla paraguaya fácil y rápida
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <div class="stars">
+          <div class="total">
+           <div class="valoracion" style="width: 93.40%">
+           </div>
+          </div>
+         </div>
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/3/8/3/tortilla_de_bacalao_sin_cebolla_62383_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de bacalao sin cebolla" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/3/8/3/tortilla_de_bacalao_sin_cebolla_62383_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-bacalao-sin-cebolla-62383.html">
+         Tortilla de bacalao sin cebolla
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <div class="stars">
+          <div class="total">
+           <div class="valoracion" style="width: 93.40%">
+           </div>
+          </div>
+         </div>
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/6/5/5/tortilla_francesa_de_espinacas_58556_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla francesa de espinacas" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/6/5/5/tortilla_francesa_de_espinacas_58556_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-francesa-de-espinacas-58556.html">
+         Tortilla francesa de espinacas
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/2/6/9/tortilla_de_arroz_frito_japonesa_73962_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de arroz frito japonesa" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/2/6/9/tortilla_de_arroz_frito_japonesa_73962_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-arroz-frito-japonesa-73962.html">
+         Tortilla de arroz frito japonesa
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/6/1/tortilla_campera_77165_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla campera" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/6/1/tortilla_campera_77165_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-campera-77165.html">
+         Tortilla campera
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/2/3/tortilla_de_boniato_76325_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de boniato" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/2/3/tortilla_de_boniato_76325_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-boniato-76325.html">
+         Tortilla de boniato
+        </a>
+       </div>
+       <div class="bloque link">
+        <div class="position-imagen">
+         <picture>
+          <source srcset="https://cdn0.recetasgratis.net/es/posts/5/0/8/tortilla_de_macarrones_75805_300_150.webp" type="image/webp"/>
+          <img alt="Tortilla de macarrones" class="imagen" data-pin-nopin="true" height="150" loading="lazy" src="https://cdn0.recetasgratis.net/es/posts/5/0/8/tortilla_de_macarrones_75805_300_150.jpg" width="300"/>
+         </picture>
+        </div>
+        <a class="titulo titulo--bloque" href="https://www.recetasgratis.net/receta-de-tortilla-de-macarrones-75805.html">
+         Tortilla de macarrones
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="apartado align-center">
+      <p>
+       <strong>
+        Sube la foto de tu
+       </strong>
+       Receta de Tortilla de acelga y zanahoria
+      </p>
+      <div class="subir-foto">
+       <div class="icono-camara" onclick="$('[data-js-selector=\'modal-subir-foto\']').show();$('body').addClass('modal--open');">
+        <div class="tooltip">
+         Sube la foto de tu plato
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="blur-modal" data-js-selector="modal-subir-foto" style="display:none">
+     </div>
+     <div class="modal" data-js-selector="modal-subir-foto" style="display:none">
+      <div class="modal__cerrar" onclick="$('[data-js-selector=\'modal-subir-foto\']').hide();$('body').removeClass('modal--open');">
+       ✕︎
+      </div>
+      <div class="modal__label">
+       Sube tu foto
+      </div>
+      <div class="modal__content">
+       <div class="max-width-600">
+        <form class="formulario" data-id-respuesta="-1" data-js-selector="formulario-subir-foto" method="post">
+         <input data-js-selector="id_post" name="id_post" type="hidden" value="77695"/>
+         <div data-js-selector="comentario-nombre-mail">
+          <div class="columna izquierda">
+           <div class="position-relative">
+            <div class="error" data-js-selector="error-nombre">
+            </div>
+            <input class="input" name="nombre" placeholder="Nombre" type="text"/>
+           </div>
+          </div>
+          <div class="columna derecha">
+           <div class="position-relative">
+            <div class="error" data-js-selector="error-email">
+            </div>
+            <input class="input" name="email" placeholder="Correo electrónico (no se publicará)" type="email"/>
+           </div>
+          </div>
+         </div>
+         <div class="position-relative foto">
+          <div class="error" data-js-selector="error-comentario">
+          </div>
+          <textarea maxlength="250" name="comentario" placeholder="Escribe un pie de foto"></textarea>
+          <input class="adjunto" data-js-selector="archivo_adjunto" data-portada="0" hidden="hidden" name="adjunto" type="file">
+           <div class="arrastrar" data-js-selector="comentario-adjunto" data-portada="0">
+            <div class="error--arrastrar" data-js-selector="error-adjunto">
+            </div>
+            <div class="icono-camara" data-js-selector="icono-camara">
+            </div>
+            <div class="copy-tactil" data-js-selector="copy-tactil">
+             Añade una imagen
+            </div>
+            <div class="copy-raton" data-js-selector="copy-raton">
+             Haz clic para seleccionar una imagen
+            </div>
+           </div>
+          </input>
+         </div>
+         <button class="boton m" data-id-respuesta="-1" data-js-selector="enviar_comentario" type="button">
+          Enviar foto
+         </button>
+        </form>
+       </div>
+      </div>
+     </div>
+     <div class="comentarios" id="comentarios">
+      <div class="titulo titulo--linea sin-margin-lateral">
+       <div class="pastilla">
+        Escribir comentario
+       </div>
+      </div>
+      <div>
+       <form class="formulario" data-id-respuesta="-1" data-js-selector="formulario-comentario" method="post">
+        <input data-js-selector="id_post" name="id_post" type="hidden" value="77695"/>
+        <input name="id_respuesta" type="hidden" value="-1"/>
+        <input name="id_categoria" type="hidden" value="1806"/>
+        <div data-js-selector="comentario-nombre-mail">
+         <div class="columna izquierda">
+          <div class="position-relative">
+           <div class="error" data-js-selector="error-nombre">
+           </div>
+           <input class="input" name="nombre" placeholder="Nombre" type="text"/>
+          </div>
+         </div>
+         <div class="columna derecha">
+          <div class="position-relative">
+           <div class="error" data-js-selector="error-email">
+           </div>
+           <input class="input" name="email" placeholder="Correo electrónico (no se publicará)" type="email"/>
+          </div>
+         </div>
+        </div>
+        <div class="position-relative foto">
+         <div class="error" data-js-selector="error-comentario">
+         </div>
+         <textarea name="comentario" placeholder="Comentario o pregunta"></textarea>
+         <input class="adjunto" data-js-selector="archivo_adjunto" data-portada="3" hidden="hidden" name="adjunto" type="file">
+          <div class="arrastrar" data-js-selector="comentario-adjunto" data-portada="3">
+           <div class="error--arrastrar" data-js-selector="error-adjunto">
+           </div>
+           <div class="icono-camara" data-js-selector="icono-camara">
+           </div>
+           <div class="copy-tactil" data-js-selector="copy-tactil">
+            Añade una imagen
+           </div>
+           <div class="copy-raton" data-js-selector="copy-raton">
+            Haz clic para adjuntar una foto relacionada con tu comentario
+           </div>
+          </div>
+         </input>
+        </div>
+        <div class="rating">
+         <div class="selector--starts">
+          <input checked="checked" class="valoracion" id="valoracion-null" name="rating" type="radio" value="0"/>
+          <label for="valoracion-null" style="display:none;">
+          </label>
+          <input class="valoracion" data-texto="No es útil" id="valoracion-1" name="rating" onclick="$('#texto-valoracion').html($(this).data('texto'));" type="radio" value="1"/>
+          <label for="valoracion-1">
+          </label>
+          <input class="valoracion" data-texto="Más o menos" id="valoracion-2" name="rating" onclick="$('#texto-valoracion').html($(this).data('texto'));" type="radio" value="2"/>
+          <label for="valoracion-2">
+          </label>
+          <input class="valoracion" data-texto="Normal" id="valoracion-3" name="rating" onclick="$('#texto-valoracion').html($(this).data('texto'));" type="radio" value="3"/>
+          <label for="valoracion-3">
+          </label>
+          <input class="valoracion" data-texto="Útil" id="valoracion-4" name="rating" onclick="$('#texto-valoracion').html($(this).data('texto'));" type="radio" value="4"/>
+          <label for="valoracion-4">
+          </label>
+          <input class="valoracion" data-texto="Muy útil" id="valoracion-5" name="rating" onclick="$('#texto-valoracion').html($(this).data('texto'));" type="radio" value="5"/>
+          <label for="valoracion-5">
+          </label>
+         </div>
+         <label class="label">
+          Tu valoración:
+         </label>
+         <span class="texto" id="texto-valoracion">
+          ¿Qué te ha parecido la receta?
+         </span>
+        </div>
+        <button class="boton m" data-id-respuesta="-1" data-js-selector="enviar_comentario" type="button">
+         Enviar comentario
+        </button>
+        <input id="politica_-1" name="politica" type="checkbox"/>
+        <label for="politica_-1">
+         He leído y acepto la
+         <a data-js-selector="launch_popup" href="https://www.recetasgratis.net/index/politicadeprivacidad" rel="nofollow">
+          política de privacidad
+         </a>
+        </label>
+        <label class="legal">
+         Red Link To Media recopila los datos personales solo para uso interno. En ningún caso, tus datos serán transferidos a terceros sin tu autorización.
+         <br/>
+         De acuerdo con la ley del 8 de diciembre de 1992, puedes acceder a la base de datos que contiene tus datos personales y modificar esta información en cualquier momento, poniéndote en contacto con Red Link To Media SL (
+         <a href="mailto:info@linktomedia.net">
+          info@linktomedia.net
+         </a>
+         )
+        </label>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="barra-titulo-articulo">
+     <div class="max_width">
+      <a class="wrap_titulo-barra-articulo" href="#top">
+       Receta de Tortilla de acelga y zanahoria
+      </a>
+     </div>
+    </div>
+    <section class="bg-galeria" data-js-selector="galeria" data-total="10">
+     <div class="galeria-table">
+      <div class="galeria">
+       <div class="ad--gallery publibydfp ad mobile breakpoint_1 breakpoint_1-5" data-client="27212193" data-dfp="ltm_mobile_minilb_2" data-sizes="[[320, 50],[320, 100]]" id="div-gpt-ad-1490621822506-13">
+       </div>
+       <div class="max-width-1100">
+        <div class="table">
+         <div class="cell cell--publi ad--gallery publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_sky_2" data-sizes="[160, 600]" id="div-gpt-ad-1490621822506-10">
+         </div>
+         <div class="cell cell--img">
+          <div class="anterior" data-js-selector="galeria-anterior">
+           <div class="icono">
+           </div>
+          </div>
+          <div class="siguiente" data-js-selector="galeria-siguiente">
+           <div class="icono">
+           </div>
+          </div>
+          <div class="imagen active" data-js-selector="imagen-galeria" data-posicion="0">
+           <img data-js-selector="img-galeria" data-posicion="0" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="1">
+           <img data-js-selector="img-galeria" data-posicion="1" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_0_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="2">
+           <img data-js-selector="img-galeria" data-posicion="2" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_1_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="3">
+           <img data-js-selector="img-galeria" data-posicion="3" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_2_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="4">
+           <img data-js-selector="img-galeria" data-posicion="4" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_3_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="5">
+           <img data-js-selector="img-galeria" data-posicion="5" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_4_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="6">
+           <img data-js-selector="img-galeria" data-posicion="6" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_5_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="7">
+           <img data-js-selector="img-galeria" data-posicion="7" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_6_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="8">
+           <img data-js-selector="img-galeria" data-posicion="8" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_7_orig.jpg" src=""/>
+          </div>
+          <div class="imagen" data-js-selector="imagen-galeria" data-posicion="9">
+           <img data-js-selector="img-galeria" data-posicion="9" data-src="https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_paso_8_orig.jpg" src=""/>
+          </div>
+         </div>
+         <div class="cell cell--publi ad--gallery publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" data-client="27212193" data-dfp="ltm_desktop_sky_3" data-sizes="[160, 600]" id="div-gpt-ad-1490621822506-11">
+         </div>
+        </div>
+       </div>
+       <div class="contador">
+        <div class="wrap_contador">
+         <span class="posicion" data-js-selector="posicion-galeria">
+          1
+         </span>
+         de
+         <span class="total">
+          10
+         </span>
+        </div>
+       </div>
+       <div class="titulo-galeria">
+        Receta de Tortilla de acelga y zanahoria
+       </div>
+       <div class="cerrar" data-js-selector="galeria-cerrar">
+        <div class="icono">
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+    <div class="publibydfp ad mobile breakpoint_1 breakpoint_1-5" data-client="27212193" data-dfp="ltm_anchor_bottom" data-js-selector="anchor" data-sizes="[[320, 50],[320,100]]" id="div-gpt-ad-ltm_anchor_bottom">
+    </div>
+   </main>
+   <a class="back_top" href="#top">
+    Volver arriba ↑
+   </a>
+   <footer>
+    <div class="max_width columnas--1">
+     <div class="columna">
+      <div class="titulo titulo--footer">
+       Redes sociales
+      </div>
+      <div class="social margin-bottom-1">
+       <a class="facebook follow-icon" href="https://www.facebook.com/RecetasGratis" rel="nofollow noopener noreferrer" target="_blank" title="facebook">
+       </a>
+       <a class="twitter follow-icon" href="https://www.twitter.com/recetaGratis" rel="nofollow noopener noreferrer" target="_blank" title="twitter">
+       </a>
+       <a class="instagram follow-icon" href="https://www.instagram.com/RecetasGratis" rel="nofollow noopener noreferrer" target="_blank" title="instagram">
+       </a>
+       <a class="youtube follow-icon" href="https://www.youtube.com/channel/UCmfdrPuxgWiNoU7JpUFlQOQ?sub_confirmation=1" rel="nofollow noopener noreferrer" target="_blank" title="youtube">
+       </a>
+       <a class="pinterest follow-icon" href="https://pinterest.com/recetasg" rel="nofollow noopener noreferrer" target="_blank" title="pinterest">
+       </a>
+       <a class="tiktok follow-icon" href="https://www.tiktok.com/@recetasgratis" rel="nofollow noopener noreferrer" target="_blank" title="tiktok">
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="subfooter">
+     <div class="max_width">
+      <a class="ltm-logo" href="https://www.linktomedia.com" rel="nofollow" target="_blank">
+       <img alt="Link To Media" height="30" loading="lazy" src="https://cdn.recetasgratis.net/img/web/ltm-logo.png" width="58"/>
+      </a>
+      <strong>
+       © recetasgratis.net
+      </strong>
+      <em>
+       2024
+      </em>
+      <a href="https://www.recetasgratis.net/quienes-somos" rel="nofollow">
+       Quiénes somos
+      </a>
+      <a href="https://www.linktomedia.com/#Contacto" rel="nofollow" target="_blank">
+       Contacta con nosotros
+      </a>
+      <a data-js-selector="launch_popup" href="https://www.recetasgratis.net/index/terminosycondiciones" rel="nofollow" target="_blank">
+       Términos y Condiciones
+      </a>
+      <a data-js-selector="launch_popup" href="https://www.recetasgratis.net/index/politicadeprivacidad" rel="nofollow" target="_blank">
+       Política de privacidad
+      </a>
+      <a data-js-selector="launch_popup" href="https://www.recetasgratis.net/index/politicadecookies" rel="nofollow" target="_blank">
+       Política de cookies
+      </a>
+     </div>
+    </div>
+   </footer>
+   <div id="mediaquery">
+   </div>
+   <div class="compartir share-off" data-js-selector="compartir">
+    <div class="max_width">
+     <span>
+      Compartir en:
+     </span>
+     <a class="social-icon facebook ga" data-category="Post" data-event="share" data-js-selector="launch_popup" data-label="facebook" href="http://www.facebook.com/sharer.php?u=https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html" rel="nofollow noopener noreferrer" title="facebook">
+     </a>
+     <a class="social-icon twitter ga" data-category="Post" data-event="share" data-js-selector="launch_popup" data-label="twitter" href="http://twitter.com/share?original_referer=https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html&amp;text=Receta de Tortilla de acelga y zanahoria&amp;url=https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html&amp;via=recetaGratis" rel="nofollow noopener noreferrer" title="twitter">
+     </a>
+     <a class="social-icon pinterest ga" data-category="Post" data-event="share" data-js-selector="launch_popup" data-label="pinterest" data-pin-custom="true" href="http://pinterest.com/pin/create/button/?url=https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html&amp;media=https://cdn0.recetasgratis.net/es/posts/5/9/6/tortilla_de_acelga_y_zanahoria_77695_600.jpg" rel="nofollow noopener noreferrer" title="pinterest">
+     </a>
+     <a class="social-icon whatsapp ga" data-category="Post" data-event="share" data-js-selector="launch_popup" data-label="whatsapp" href="https://wa.me/?text=Receta de Tortilla de acelga y zanahoria - https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html" rel="nofollow noopener noreferrer" title="whatsapp">
+     </a>
+     <a class="social-icon imprimir ga" data-category="Post" data-event="share" data-js-selector="launch_popup" data-label="imprimir" href="https://www.recetasgratis.net/receta-de-tortilla-de-acelga-y-zanahoria-77695.html?print=1" rel="nofollow noopener noreferrer" title="imprimir">
+     </a>
+     <a class="social-icon descargar ga" data-category="Post" data-event="share" data-js-selector="launch_popup" data-label="descargar" href="https://www.recetasgratis.net/ajax/download/id_post/77695" rel="nofollow noopener noreferrer" title="descargar">
+     </a>
+    </div>
+   </div>
+  </div>
+  <script async="true" src="https://cdn.recetasgratis.net/js/js_recetasgratis_224.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   //<!--
+window._taboola = window._taboola || [];_taboola.push({flush: true});    //-->
+  </script>
+  <script type="application/ld+json">
+   [{"@context":"https:\/\/schema.org\/","@type":"Recipe","name":"Receta de Tortilla de acelga y zanahoria","description":"Las tortillas son una forma excelente de utilizar los \u00faltimos vegetales disponibles en la heladera, como as\u00ed tambi\u00e9n para incorporar aquellos que resultan m\u00e1s dif\u00edciles en nuestra alimentaci\u00f3n. Es importante llevar una dieta variada con distintos colores para cuidar nuestro organismo en general y nuestra microbiota intestinal en particular.En RecetasGratis te ense\u00f1amos c\u00f3mo hacer tortilla de acelga y zanahoria. \u00a1A cocinar!","author":{"@type":"Person","name":"Micaela Demarchi"},"image":["https:\/\/cdn0.recetasgratis.net\/es\/posts\/5\/9\/6\/tortilla_de_acelga_y_zanahoria_77695_orig.jpg","https:\/\/cdn0.recetasgratis.net\/es\/posts\/5\/9\/6\/tortilla_de_acelga_y_zanahoria_77695_600_square.jpg"],"totalTime":"PT45M","recipeYield":2,"recipeCategory":"Plato principal","recipeIngredient":["\u00bd atado de acelga","1 zanahoria","1 cebolla chica","3 huevos","1 cucharada postre de ajo en polvo","1 cucharada postre de tomillo","\u00bd cucharada postre de pimienta"],"recipeInstructions":[{"@type":"HowToStep","text":"Pela y corta la cebolla en juliana, es decir, al medio de forma transversal y luego en medias rodajas. Salt\u00e9ala en una sart\u00e9n a fuego m\u00e1ximo con 1 cucharadita de aceite. Cuando se seque, agrega 1 cucharada de agua y baja el fuego a medio. Repite tantas veces sea necesario para que se caramelice."},{"@type":"HowToStep","text":"Una vez caramelizada, agrega la zanahoria pelada y rallada. Cocina unos minutos para que tome sabor y se ablande. Si es necesario, puedes volver a agregar 1 cucharada de agua o caldo casero."},{"@type":"HowToStep","text":"Sube el fuego a m\u00e1ximo y agrega la acelga limpia y picada. Salt\u00e9ala solo unos segundos para que tome sabor, pero no demasiado o largar\u00e1 l\u00edquido y ser\u00e1 dif\u00edcil formar tu tortilla"},{"@type":"HowToStep","text":"Condimenta a gusto y reserva el salteado hasta que est\u00e9 completamente fr\u00edo."},{"@type":"HowToStep","text":"Cuando el salteado de zanahoria y acelga est\u00e9 totalmente fr\u00edo, agrega tantos huevos sean necesarios como para unificar la preparaci\u00f3n, quedando apenas l\u00edquida. En este caso, fueron necesarios 3, pero depender\u00e1 del tama\u00f1o de cebolla, zanahoria, acelga y huevos utilices."},{"@type":"HowToStep","text":"Calienta una sart\u00e9n antiadherente a fuego m\u00e1ximo y unta su base y bordes con 1 cucharada de aceite. Una vez que est\u00e9 bien caliente, agrega la preparaci\u00f3n de la tortilla de acelga y zanahoria. Baja el fuego a medio y, cada tanto, ayuda a despegar de los bordes y formar tu tortilla con ayuda de una esp\u00e1tula."},{"@type":"HowToStep","text":"Cuando el huevo est\u00e9 coagulado, ay\u00fadate con un plato tambi\u00e9n untado en aceite para girar la tortilla y cocinarla del otro lado. Renueva el aceite en la sart\u00e9n y sube el fuego a m\u00e1ximo antes de agregarla all\u00ed nuevamente."},{"@type":"HowToStep","text":"Cocina del otro lado la tortilla por unos 10 minutos m\u00e1s hasta que est\u00e9 igualmente dorada."},{"@type":"HowToStep","text":"Cuidadosamente sirve y disfruta de tu tortilla de acelga y zanahoria. \u00a1A comer! Cu\u00e9ntanos si la pruebas y comparte la fotograf\u00eda del resultado final."}]},{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Recetas","item":"https:\/\/www.recetasgratis.net"},{"@type":"ListItem","position":2,"name":"Huevos y l\u00e1cteos","item":"https:\/\/www.recetasgratis.net\/Recetas-de-Huevos-lacteos-listado_receta-18_1.html"},{"@type":"ListItem","position":3,"name":"Tortillas","item":"https:\/\/www.recetasgratis.net\/Tortilla-busqCate-1.html"}]}]
+  </script>
+  <script>
+   (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8ea38c9bed7af08a',t:'MTczMjg5MzI4NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
+  </script>
+ </body>
+</html>
