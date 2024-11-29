@@ -5,5 +5,5 @@ version 1.0 - 22/11/2024 - Aguilar Velázquez Marco Antonio:
 """
 from django.shortcuts import render
 
-def photo(request):
-    return render(request, 'photoTemplate\photoTemplate.html')
+def photo_view(request):
+    return render(request, 'photoTemplate/photoTemplate.html')
