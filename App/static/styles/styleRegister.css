@@ -13,7 +13,7 @@ body {
 .container {
     border: 3px solid #ff5535;
     border-radius: 20px;
-    padding: 10px;
+    padding: 30px;
     background-color: white;
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.8);
     max-width: 500px;
@@ -38,8 +38,6 @@ body {
     width: 20vh;
     height: auto;
     margin: auto;
->>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
->>>>>>> refs/remotes/origin/main
 }
 
 h1 {
@@ -49,7 +47,6 @@ h1 span {
     color: #ff5535;
 }
 
-<<<<<<< HEAD
 form {
     display: block;
     /* flex-direction: column; */
@@ -82,21 +79,14 @@ input[type="password"]:focus {
     width: 100%;
 }
 
-button {
-=======
 .btn-custom {
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/main
-=======
->>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
->>>>>>> refs/remotes/origin/main
     background-color: #ff5535;
     border: none;
     color: white;
     font-size: 16px;
     padding: 10px;
     font-weight: 600;
-<<<<<<< HEAD
+
     border-radius: 20px;
     cursor: pointer;
     width: 100%; 
@@ -104,7 +94,6 @@ button {
 
 button:hover {
     background-color: #e14a2f;
-=======
     border-radius: 5px;
     cursor: pointer;
     width: 80%; /* Para que el botón use el 100% del espacio disponible */
@@ -372,14 +361,7 @@ button:hover {
         transform: translateY(-80vh) rotate(720deg); /* Eliminará la necesidad de scroll */
         opacity: 0;
     }
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/main
-=======
->>>>>>> da47ceef19ae3a2eebecb252699d8d3fa98e8b0e
->>>>>>> refs/remotes/origin/main
 }
-
-
 
 /* Animated Circles CSS */
 .circles {

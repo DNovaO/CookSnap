@@ -1,97 +1,41 @@
-html,
+/* Reset Styles */
 body {
-    height: 100vh;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    background-color: #e5e5f7;
-    opacity: 1;
-    background: radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#FF5535 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #070d59 2px, #e5e5f7 2px) -1px 0;
-    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
+    background-color: #cdf2ff;
 }
 
-.floating-table {
-    background: #fff;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    border-radius: 10px;
-    overflow: hidden;
-    margin-top: 10px;
+.navbar {
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    border-bottom: 1px solid transparent;
 }
 
-.floating-table th,
-.floating-table td {
-    padding: 15px;
-    text-align: left;
-}
-
-.floating-table tbody tr:hover {
-    background: #f9f9f9;
-}
-
-.floating-table tbody tr:nth-child(even) {
-    background: #f2f2f2;
-}
-
-.ingredient-btn {
-    background-color: #FF5535;
-    color: white;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-.header {
-    position: fixed;
-    top: 0;
+.navbar::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
     left: 0;
     width: 100%;
-    height: 70px;
-    z-index: 1000;
-    background: linear-gradient(
-        220deg,
-        #08a0d0 24%,
-        #07256c 48%,
-        #071963 71%,
-        #070d59 91%
-    );
-    border-bottom: 3px solid #070d59;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .header .col-3 {
-  margin-right: 30px; 
-  display: flex;
-  flex-direction: column; 
-  align-items: center; 
-  justify-content: center; 
-  }
-  
-  .header .col-3 a {
-  color: #FF5535; 
-  font-weight: 600;
-  text-align: center; 
-  }
-  
-  .header .col-3 a:hover {
-  color: #d14a1b; 
-  }
-  
-  .header .col-3 p {
-  margin-top: 5px; 
-  font-size: 1rem; 
-  color: #FF5535; 
-  }
-   
-.hexagon-img {
-    width: 100%;
-    max-width: 40vh;
+    height: 8px; /* Ajusta el grosor del borde */
+    background: linear-gradient(90deg, #FF5535, #eec626, #FF5535);
+    background-size: 300% 100%; /* Ajusta el tamaño del gradiente para el efecto */
+    animation: border-animate 6s ease-in-out infinite;
 }
 
+@keyframes border-animate {
+    0% {
+        background-position: 0% 0;
+    }
+    50% {
+        background-position: 100% 0;
+    }
+    100% {
+        background-position: 0% 0;
+    }
+}
 .navbar .navbar-brand img {
     width: 100px;
     height: auto;
@@ -116,36 +60,63 @@ body {
     }
 }
 
-#recipesContainer {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+.position-relative {
+    position: relative;
+}
+
+.hexagon-img {
     width: 100%;
-    margin-top: 20px;
+    max-width: 40vh;
+}
+
+.ingredient-btn {
+    background-color: #FF5535;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.ingredient-btn:hover {
+    background-color: #d14a1b;
+    color: white;
+}
+
+.btn-enviar {
+    background-color: #2669b1;
+    color: white;
+    padding: 5px 10px;
+    font-size: 16px;
     border-radius: 10px;
+    font-weight: 600;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-#recipesContainer th,
-#recipesContainer td {
-    padding: 10px;
-    text-align: center;
+.btn-enviar:hover {
+    background-color: #091179;
+    color: white;
 }
 
-#recipesContainer th {
-    background-color: #f4f4f4;
-    color: #333;
+.btn-añadir {
+    background-color: #2669b1;
+    color: white;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-#recipesContainer td a {
-    color: #007bff;
-    text-decoration: none;
+.btn-añadir:hover {
+    background-color: #091179;
+    color: white;
 }
 
-#recipesContainer td a:hover {
-    text-decoration: underline;
-}
 
 .search-btn {
-    background-color: #ff5535;
-    border: none;
+    background-color: #FF5535;
     color: white;
     padding: 10px 20px;
     font-size: 16px;
@@ -155,5 +126,305 @@ body {
 
 .search-btn:hover {
     background-color: #d14a1b;
-    color: white;
+}
+
+.hexagon-img {
+    max-width: 40vh;
+}
+
+.navbar .navbar-brand img {
+    width: 100px;
+}
+
+#recipesContainer {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#recipesContainer th {
+    background-color: #f4f4f4;
+}
+
+#recipesContainer td a {
+    color: #007bff;
+}
+
+#recipesContainer td a:hover {
+    text-decoration: underline;
+}
+
+
+/* Animated Circles CSS */
+.circles {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden; 
+}
+
+.circles li {
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 15px;
+    height: 15px;
+    background: rgba(118, 207, 223, 0.8);
+    animation: animate 20s linear infinite;
+    bottom: calc(10px - 10vh); 
+}
+
+.circles li:nth-child(1) {
+    left: 25%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    border-top-left-radius: 0 !important;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(2) {
+    left: 10%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 0s;
+    animation-duration: 22s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(3) {
+    left: 70%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(4) {
+    left: 40%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 0s;
+    animation-duration: 14s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(5) {
+    left: 65%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(6) {
+    left: 75%;
+    width: 80px;
+    height: 80px;
+    animation-delay: 0s;
+    animation-duration: 24s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(7) {
+    left: 35%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 0s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(8) {
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 0s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(9) {
+    left: 20%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 0s;
+    animation-duration: 32s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(10) {
+    left: 85%;
+    width: 45px;
+    height: 45px;
+    animation-delay: 0s;
+    animation-duration: 36s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(11) {
+    left: 15%;
+    width: 35px;
+    height: 35px;
+    animation-delay: 2s;
+    animation-duration: 20s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(12) {
+    left: 55%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 4s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(13) {
+    left: 80%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 6s;
+    animation-duration: 24s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(14) {
+    left: 5%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 8s;
+    animation-duration: 32s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(15) {
+    left: 45%;
+    width: 55px;
+    height: 55px;
+    animation-delay: 10s;
+    animation-duration: 30s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(16) {
+    left: 30%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 12s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(17) {
+    left: 25%;
+    width: 45px;
+    height: 45px;
+    animation-delay: 14s;
+    animation-duration: 22s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(18) {
+    left: 60%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 16s;
+    animation-duration: 20s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(19) {
+    left: 75%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 18s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(20) {
+    left: 40%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 20s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+@keyframes animate {
+    0% {
+        transform: translateY(0) rotate(0deg);
+        opacity: 0.5;
+    }
+    50% {
+        transform: translateY(-50vh) rotate(360deg); /* Mayor desplazamiento hacia arriba */
+        opacity: 0.5;
+    }
+    100% {
+        transform: translateY(-110vh) rotate(720deg); /* Límite superior ajustado */
+    }
+}
+
+.custom-card {
+    height: 100%; /* Altura más grande */
+    border: 2px solid #070d59; /* Borde azul oscuro */
+    border-radius: 12px; /* Bordes redondeados */
+    background-color: #ffffff;
+}
+
+.custom-container {
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid transparent;
+}
+
+.custom-container::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px; /* Ajusta el grosor del borde */
+    background: linear-gradient(90deg, #FF5535, #eec626, #FF5535);
+    background-size: 300% 100%; /* Ajusta el tamaño del gradiente para el efecto */
+    animation: border-animate 6s ease-in-out infinite;
+    border-radius: 0 0 8px 8px; /* Suavizar esquinas inferiores del borde */
+}
+
+@keyframes border-animate {
+    0% {
+        background-position: 0% 0;
+    }
+    50% {
+        background-position: 100% 0;
+    }
+    100% {
+        background-position: 0% 0;
+    }
 }

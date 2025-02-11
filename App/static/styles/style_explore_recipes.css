@@ -1,76 +1,122 @@
 html,
 body {
     height: 100vh;
-    margin-top:45px;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow: hidden; /* Evita scroll */
     display: flex;
     flex-direction: column;
+    background-color: #cdf2ff;
+    opacity: 1;
 }
-.menu-button {
-    border: none;
-    background: transparent;
-    padding: 0;
-    font-size: 2.5rem;
-  }
-  
-  .hexagon-img {
-    width: 35vh;
+
+.navbar {
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    border-bottom: 1px solid transparent;
+}
+
+.navbar::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 8px; /* Ajusta el grosor del borde */
+    background: linear-gradient(90deg, #FF5535, #eec626, #FF5535);
+    background-size: 300% 100%; /* Ajusta el tamaño del gradiente para el efecto */
+    animation: border-animate 6s ease-in-out infinite;
+}
+
+@keyframes border-animate {
+    0% {
+        background-position: 0% 0;
+    }
+    50% {
+        background-position: 100% 0;
+    }
+    100% {
+        background-position: 0% 0;
+    }
+}
+
+.navbar .navbar-brand img {
+    width: 100px;
     height: auto;
-  }
-  
-  p {
-    font-size: 3vw;
+    min-width: 100px;
+    height: auto;
+}
+
+.navbar .nav-link {
+    font-size: 1.5rem;
     font-weight: 600;
     color: #000000;
-  }
-  
-  p span {
-    color: #ff5535;
-  }
-  
-  .collapse {
+}
+
+.navbar .nav-link span {
+    color: #FF5535;
+}
+
+@media (max-width: 576px) {
+    .navbar .nav-link {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+}
+
+.position-relative {
+    position: relative;
+}
+
+.hexagon-img {
+    width: 100%;
+    max-width: 40vh;
+}
+
+.overlay-text {
     position: absolute;
-    background-color: #f8f9fa;
-    padding: 2px;
-  }
-  
-  a {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3vh;
+    text-align: center;
+}
+
+.icon-size {
+    font-size: 5vh;
+    color: #FF5535;
+}
+
+.overlay-text i {
     display: block;
-    color: #070d59;
-    font-size: 1rem;
-  }
-  
-  .overlay-text span {
-    color: #070d59;
-    font-weight: 1000;
-  }
-  
-  .img-fluid {
-    max-width: 100%;
-    height: auto;
-  }
-  
+    margin-bottom: 10px;
+}
+
+a.btn {
+    display: block;
+    position: relative;
+    text-decoration: none;
+}
 
 .header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 70px;
-  z-index: 1000;
-  background: linear-gradient(
-      220deg,
-      #08a0d0 24%,
-      #07256c 48%,
-      #071963 71%,
-      #070d59 91%
-  );
-  border-bottom: 3px solid #070d59;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    z-index: 1000;
+    background: linear-gradient(
+        220deg,
+        #08a0d0 24%,
+        #07256c 48%,
+        #071963 71%,
+        #070d59 91%
+    );
+    border-bottom: 3px solid #070d59;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .header .col-3 {
@@ -95,4 +141,341 @@ color: #d14a1b;
 margin-top: 5px; 
 font-size: 1rem; 
 color: #FF5535; 
+}
+
+.main-content {
+    flex: 1; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    overflow: hidden; 
+}
+
+@keyframes breathing {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05); 
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@media (max-width: 768px) {
+    .hexagon-img {
+        max-width: 25vh;
+    }
+
+    .overlay-text {
+        font-size: 2vh;
+    }
+
+    .icon-size {
+        font-size: 4vh;
+    }
+}
+
+/* Estilo general de las tarjetas */
+.custom-card {
+    height: 150px; /* Altura más grande */
+    border: 2px solid #070d59; /* Borde azul oscuro */
+    border-radius: 12px; /* Bordes redondeados */
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
+    background-color: #ffffff;
+}
+
+/* Hover effect */
+.custom-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(7, 13, 89, 0.6); /* Sombra azul oscuro */
+    background: linear-gradient(45deg, rgba(255, 85, 53, 0.7), rgba(238, 198, 38, 0.7), rgba(255, 85, 53, 0.7)); /* Fondo degradado naranja */
+    border-color: #FF5535; /* Cambiar borde a naranja */
+    color: #ffffff; /* Cambiar texto a blanco */
+}
+
+
+/* Estilo de los íconos */
+.custom-icon {
+    font-size: 2.5rem; /* Íconos más grandes */
+    color: #070d59; /* Azul oscuro por defecto */
+    transition: color 0.3s ease;
+}
+
+/* Cambiar el color del ícono en hover */
+.custom-card:hover .custom-icon {
+    color: #ffffff; /* Cambiar el ícono a blanco */
+}
+
+/* Títulos y textos */
+.custom-card .card-title {
+    font-size: 1.4rem; /* Texto más grande */
+    color: #070d59; /* Azul oscuro por defecto */
+    transition: color 0.3s ease;
+}
+
+.custom-card .card-text {
+    font-size: 1rem;
+    color: #6c757d; /* Texto secundario */
+    transition: color 0.3s ease;
+}
+
+/* Cambiar texto en hover */
+.custom-card:hover .card-title, 
+.custom-card:hover .card-text {
+    color: #ffffff; /* Cambiar texto a blanco */
+}
+
+/* Ajustes responsivos */
+@media (max-width: 768px) {
+    .custom-card {
+        height: 200px; /* Reducir altura en pantallas pequeñas */
+    }
+    .custom-icon {
+        font-size: 2rem; /* Ajustar íconos */
+    }
+    .custom-card .card-title {
+        font-size: 1.2rem;
+    }
+}
+
+/* Animated Circles CSS */
+.circles {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    overflow: hidden; 
+}
+
+.circles li {
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 15px;
+    height: 15px;
+    background: rgba(118, 207, 223, 0.8);
+    animation: animate 20s linear infinite;
+    bottom: calc(10px - 10vh); 
+}
+
+.circles li:nth-child(1) {
+    left: 25%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    border-top-left-radius: 0 !important;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(2) {
+    left: 10%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 0s;
+    animation-duration: 22s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(3) {
+    left: 70%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(4) {
+    left: 40%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 0s;
+    animation-duration: 14s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(5) {
+    left: 65%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(6) {
+    left: 75%;
+    width: 80px;
+    height: 80px;
+    animation-delay: 0s;
+    animation-duration: 24s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(7) {
+    left: 35%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 0s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(8) {
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 0s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(9) {
+    left: 20%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 0s;
+    animation-duration: 32s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(10) {
+    left: 85%;
+    width: 45px;
+    height: 45px;
+    animation-delay: 0s;
+    animation-duration: 36s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(11) {
+    left: 15%;
+    width: 35px;
+    height: 35px;
+    animation-delay: 2s;
+    animation-duration: 20s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(12) {
+    left: 55%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 4s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(13) {
+    left: 80%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 6s;
+    animation-duration: 24s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(14) {
+    left: 5%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 8s;
+    animation-duration: 32s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(15) {
+    left: 45%;
+    width: 55px;
+    height: 55px;
+    animation-delay: 10s;
+    animation-duration: 30s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(16) {
+    left: 30%;
+    width: 40px;
+    height: 40px;
+    animation-delay: 12s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(17) {
+    left: 25%;
+    width: 45px;
+    height: 45px;
+    animation-delay: 14s;
+    animation-duration: 22s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+.circles li:nth-child(18) {
+    left: 60%;
+    width: 50px;
+    height: 50px;
+    animation-delay: 16s;
+    animation-duration: 20s;
+    border-radius: 50%;
+    background: rgba(96, 183, 199, 0.8);
+}
+
+.circles li:nth-child(19) {
+    left: 75%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 18s;
+    animation-duration: 26s;
+    border-radius: 50%;
+    background: rgba(47, 44, 92, 0.8);
+}
+
+.circles li:nth-child(20) {
+    left: 40%;
+    width: 30px;
+    height: 30px;
+    animation-delay: 20s;
+    animation-duration: 28s;
+    border-radius: 50%;
+    background: rgba(114, 63, 145, 0.8);
+}
+
+@keyframes animate {
+    0% {
+        transform: translateY(0) rotate(0deg);
+        opacity: 0.5;
+    }
+    50% {
+        transform: translateY(-50vh) rotate(360deg); /* Mayor desplazamiento hacia arriba */
+        opacity: 0.5;
+    }
+    100% {
+        transform: translateY(-110vh) rotate(720deg); /* Límite superior ajustado */
+    }
 }
